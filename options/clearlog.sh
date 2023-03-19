@@ -1,3 +1,38 @@
-z="
-";Lz=''\''';DBz='var/';KBz='debu';HBz='btmp';Pz='5m'\''';jz='in "';CBz=' > /';kz='${da';pz=' "$l';Uz='m'\''';sz='"';gz='g`);';Qz='LIGH';Fz='\033';hz='for ';ABz='.*`)';PBz='HASI';bz='/var';Iz='='\''\0';Zz='=(`f';tz=' > $';rz='lear';Jz='33[0';Cz='3[0;';xz='r`);';SBz='US"';Az='RED=';Yz='data';Sz='033[';Gz='[0m'\''';lz='ta[@';Vz='off=';GBz='og';iz='log ';MBz=' -e ';az='ind ';RBz=' HAP';Dz='31m'\''';BBz=';';IBz='mess';mz=']}"';uz='log';cz='/log';FBz='sysl';Xz='b[m'\''';QBz='L DI';Hz='BLUE';LBz='g';oz='echo';Rz='T='\''\';NBz='"LOG';wz='*.er';qz='og c';Nz='LE='\''';OBz=' BER';Bz=''\''\03';vz='done';fz='*.lo';Ez='NC='\''';Kz=';34m';dz='/ -n';Tz='0;37';ez='ame ';Wz=''\''\x1';yz='mail';JBz='ages';EBz='log/';Mz='PURP';nz='do';Oz='[0;3';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Fz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Xz$z$Yz$Zz$az$bz$cz$dz$ez$fz$gz$z$hz$iz$jz$kz$lz$mz$z$nz$z$oz$pz$qz$rz$sz$z$oz$tz$uz$z$vz$z$Yz$Zz$az$bz$cz$dz$ez$wz$xz$z$hz$iz$jz$kz$lz$mz$z$nz$z$oz$pz$qz$rz$sz$z$oz$tz$uz$z$vz$z$Yz$Zz$az$bz$cz$dz$ez$yz$ABz$BBz$z$hz$iz$jz$kz$lz$mz$z$nz$z$oz$pz$qz$rz$sz$z$oz$tz$uz$z$vz$z$oz$CBz$DBz$EBz$FBz$GBz$z$oz$CBz$DBz$EBz$HBz$z$oz$CBz$DBz$EBz$IBz$JBz$z$oz$CBz$DBz$EBz$KBz$LBz$z$oz$MBz$NBz$OBz$PBz$QBz$RBz$SBz"
+#!/bin/bash
+
+# Color
+RED='\033[0;31m'
+NC='\033[0m'
+#GREEN='\033[0;32m'
+#ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+#CYAN='\033[0;36m'
+LIGHT='\033[0;37m'
+off='\x1b[m'
+# ==========================================
+# Getting
+
+data=(`find /var/log/ -name *.log`);
+for log in "${data[@]}"
+do
+echo "$log clear"
+echo > $log
+done
+data=(`find /var/log/ -name *.err`);
+for log in "${data[@]}"
+do
+echo "$log clear"
+echo > $log
+done
+data=(`find /var/log/ -name mail.*`);
+for log in "${data[@]}"
+do
+echo "$log clear"
+echo > $log
+done
+echo > /var/log/syslog
+echo > /var/log/btmp
+echo > /var/log/messages
+echo > /var/log/debug
+echo -e "LOG BERHASIL DI HAPUS"

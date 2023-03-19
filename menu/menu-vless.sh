@@ -1,3 +1,385 @@
-z="
-";lCz='\\03';gTz='(dat';BWz='t in';Hz='nsec';HQz='emct';TPz='proc';jQz='daka';YUz='unt ';GJz='━━━━';IQz='l re';SLz='tls=';cEz='dev/';IVz='e}1$';SCz='m'\''';EHz='(cat';HVz='${BI';LKz='2-3 ';jCz='1;1m';NWz='elws';TIz='" = ';Oz='gle.';qVz='ck T';jMz='days';Uz='e | ';qHz=' = "';NJz='  Ch';lEz='data';HGz='fi';eNz='ypti';jz='BIBl';DIz='then';qNz='=bug';GGz='&1';QTz='put ';APz='u"';KBz='Yell';jDz='N} O';dLz=' -f2';wLz='d: -';mPz='/a\#';gGz='vpnd';sKz='[1-$';lVz='e XR';CGz='i > ';MDz='IGHT';VFz=' "$e';NKz=' -s ';nWz='to b';JOz=' On ';PHz=' "$C';wz='m'\''  ';kKz=' -rp';OHz='wo=$';tCz='rt G';YEz='onte';WBz='BICy';qMz='k1="';tHz='an';LOz='xp"';pVz='] Ba';dRz='s/tc';DOz='arks';VCz='{ ec';OWz=';;';YBz='6m'\'' ';dIz='=$(w';QEz='Q ()';ISz=' nl)';nUz='p"';vCz=';32m';lSz='gin}';JRz='ip i';mTz='$exp';BUz='ll 2';FQz='rpc$';QCz='NC='\''';DTz='| co';qRz='ay.t';fLz=' '\''s/';mFz='" -l';pHz='YIP"';DRz='/g'\'' ';RTz='User';WFz='xp" ';jNz='c&se';aEz='om/c';JFz='( `g';IJz='m"';MHz=' the';AVz='┘${N';cQz='Logi';PFz='"/ro';EMz='ay/d';kSz='stlo';bUz='   E';hLz=''\'')"';gWz='cho ';vFz='else';QPz=' hea';LVz='] Cr';mNz='e=vl';iRz='$ip"';xTz='ay >';SUz=' $ex';AHz='me.i';oJz=' " P';MPz=' tr ';pz='  # ';ZCz='1m${';OGz='=$(c';QFz='mp" ';aOz='ne"';uNz='════';FFz='ata[';oGz=' awk';dJz='lien';KKz=' '\'' '\''';cDz='OW} ';ONz='h=/v';TTz=' : "';CFz='user';NQz='ws()';dPz=' "$m';tFz='c/.$';Lz=' htt';SHz='ekTw';tTz='/###';RRz='og/x';aVz='] De';hDz='KEY=';PVz='ccou';qWz='enu"';dKz='_OF_';HJz='━━\0';vBz='0m'\'' ';RDz='rt E';IFz='exp=';GDz='E='\''\';iCz='33[3';IIz=' nee';YIz='tion';uTz='er/c';SDz='ROR=';BIz='edup';bRz='" " ';hQz='kun"';lKz=' "Se';VMz='"${C';WTz='r ];';EFz='"${d';yBz=';91m';WHz='ired';RBz='BIPu';vEz='k '\''{';yOz=' men';TWz='5) c';IUz='full';cJz='ng c';XOz='"ID ';VBz='le';PGz='url ';iPz='d"`';DJz=''\'' ]]';DQz='"'\'' /';WVz='ooun';tDz=']"';gUz='},{/';lIz=';';oIz='F_CL';JPz='al`<';AEz='W} R';rIz=' -c ';sMz='id}@';SMz='46 |';LPz='ndom';nFz='e "0';sVz='nu  ';iOz='"Lin';YVz='  "';fTz='d1=$';ZGz='raw.';CIz=' ]; ';PUz='xpir';STz='name';wVz='u : ';AMz='s/ /';LBz='ow';MUz='me :';FWz='dd-v';fFz=' (d1';BRz=''\''s/t';mLz='stal';BNz='ty=t';MQz=' cek';gQz=' "$a';kCz='${*}';UWz=' ; c';cPz='f=1';jLz='="$(';hSz=' Jam';YLz='.txt';FBz='llow';bEz='svpn';iUz=' " X';tMz='${do';bz='biji';tUz='n}│ ';xEz='t $2';UOz=': 80';aSz='r :$';RLz='p)';uVz='──┘$';fBz='UWhi';CUz='>&1';gOz=': /v';OPz='X-Z0';lOz='k no';GMz='n)';NCz='n='\''\';Wz='-e '\''';vGz='r/lo';qQz='`cat';sQz='g/xr';uIz='/xra';gEz='ain/';yTz=' /de';NDz=';37m';ZDz='rt I';nHz='P)';GPz='ess(';WQz=' "--';oUz='"${B';sLz='one ';OLz='ed -';QOz='3"';gDz='rt O';BTz='ew V';DNz='ncry';GKz='g.js';PTz=' "In';SFz='d1=(';jSz='${la';LWz='3) c';iJz='t th';lTz='exp3';THz='o" ]';fMz=' 3 |';CHz='CekO';bPz='akti';CBz='Gree';oWz='ack ';qDz='W} P';xSz='LOR1';kGz='n/ma';hHz='awk ';tNz='34m═';WPz='nel/';CKz='d"';mVz='AY  ';rOz='-p "';wFz='rm -';OEz='[4m"';Bz='From';UHz='res=';KMz='" /e';ORz='$(ca';Yz='Date';sTz='te -';rVz='o Me';Pz='com/';cz='=`da';CSz='null';IRz=');';WLz='-ins';LNz='k2="';qPz='exp"';aCz='*}\\';yLz='ed '\''';oQz='t';AUz='v/nu';oPz='"$us';FLz='fig.';JQz='star';vPz='"$uu';VLz='/log';ZPz='uid)';yHz='/hom';CTz='\E[0';ZOz=': no';mDz='}]"';dMz='d '\'' ';ZHz='ion ';TUz='p4"';BJz='S} =';ANz='curi';DUz=' " V';MOz='"Por';HWz='2) c';cFz='`)';lFz='[ "$';Xz='s/< ';OJz='eck ';xIz='.jso';lWz='any ';fUz='/,/^';BEz='VE $';LRz='a2[@';FGz='l 2>';kz='ack=';PQz='mp/o';gSz='line';XCz='e "\';mEz='=( `';JWz='rial';mKz='lect';DFz=' in ';xBz='33[0';tVz='an}└';TRz='ss.l';NNz='?pat';KHz='"/et';ZUz='   \';bDz='YELL';bGz='ubus';wQz='g | ';mBz='05m'\''';ETz='lumn';qUz='────';INz='ws#$';iSz='C}: ';wNz='/VLE';gCz=' -e ';RFz='t $3';az=''\'')';jWz=' "Pr';VJz='[0m"';aLz='s TL';uOz='y ke';TEz=' -sS';xNz='SS══';uRz='jum2';JMz='"},{';cNz='tls&';fGz='m/cs';eOz='"Pat';aQz='[ XR';pEz='t/tm';qSz='-"';yFz='tc/.';QVz='nt  ';SKz='LIEN';XKz='&& $';RNz='ion=';UEz='/raw';ARz='3 | ';aTz=' " m';USz=' 500';TSz='l -n';GFz='@]}"';qz='Blac';mOz='k2}"';fKz='NTS}';iWz='" ; ';hVz='] Ce';YTz=' (da';bCz='0m";';aIz='ailv';uCz='REEN';YNz='de=g';tJz='etur';Rz='1 | ';cHz='..."';yJz='ser ';MGz='}';yMz='s&se';XLz='tall';TFz='`dat';GLz='json';EDz='rt P';gJz=' " S';EIz='red ';KEz='rt U';aDz='NFO=';RVz='   "';bLz='S" |';FMz='omai';JGz='f /r';bQz='AY U';ZVz='e}3$';DVz='───┐';lz=''\''\03';oFz='" ]]';XTz=' -p ';sIz=' " "';oEz='/roo';LIz='ate ';Sz='grep';bIz='less';nIz='ER_O';aFz='iji"';SIz='$res';QRz='ar/l';XUz='Acco';lLz='g-in';xQz='tail';qOz=' -r ';HHz='an (';uHz='Deni';nSz='";';BFz='for ';WGz='Name';vLz='ut -';cGz='erco';bNz='ity=';DDz='34m'\''';KCz='ple=';PIz=' 0';pGz=' '\''{p';SJz='Vles';dTz='now=';KUz='newe';VRz=' gre';kPz='/#vl';MSz='/var';uWz='u ;;';pNz='&sni';fEz='on/m';iLz='none';OVz='ss A';WMz='}"p)';TMz=' sed';nTz='2 + ';wSz='"$CO';mHz='$MYI';SEz='curl';VWz='ekws';TCz='gree';BLz='R';uEz='| aw';mQz='pxra';QHz='ekOn';GWz=' ;;';BKz='pire';RQz='n | ';gLz=' //g';MIz='firs';mSz=' wib';aUz='E[0m';hMz='ini=';kUz='Succ';XMz='$(gr';QLz='ER}"';fDz='C}]"';IHz=') {';UPz='/sys';iQz='="ti';eFz='=$((';nMz='"`';eKz='CLIE';MVz='eate';cLz=' -d:';FHz='ni)';gNz='one&';iNz='=grp';nLz='l.tx';YMz='ep -';eJz='ts!"';PBz='4m'\'' ';dWz='x) e';aKz='ER} ';nKz=' one';xVz='" op';pWz='on m';JSz='last';cCz=' }';oz='    ';nQz='y.tx';PMz='son ';KTz='"tap';VNz='ser}';dGz='nten';mz='3[1;';LDz='rt L';WJz=' ""';jUz='ted ';ePz='asaa';QUz='ed O';VPz='/ker';FPz='alvl';HLz=''\''^##';AKz='  Ex';YWz='lvle';rLz='ss N';GVz='an}[';sSz='othe';BCz='en='\''';MJz='m   ';KFz='rep ';fJz=' 1';MRz=']}"';aRz='00 |';oOz='k3}"';YFz='d2=(';XGz='http';PKz='unti';NOz='t TL';JNz='{use';cVz='ss  ';XBz='an='\''';BSz=' > /';ENz='ptio';ECz='low=';YSz='l -1';qBz='101m';xFz='f /e';UJz='  \E';bHz='pted';LFz='-E "';uJz='n"';IWz=' ; t';ZWz='ss;;';wCz='rt Y';nEz='cat ';iHz=''\''{pr';uKz='BER_';PDz='C='\''\';QNz='rypt';LGz='tmp';dBz='Whit';nBz='  #';JJz='"\\E';bFz=' +%s';NHz='CekT';YKz='{CLI';xDz='ECEI';dVz='e}4$';dQz='n ]=';PCz='IWhi';jVz='er A';RJz='RAY ';Qz=' 2>&';URz='og |';tz='d='\''\';HDz='0;35';ez='"%Y-';NBz='\033';fz='%m-%';cWz='enu ';Cz='Serv';CCz='2m'\'' ';wHz='Q';QQz='ther';KNz='r}"';REz=' {';hKz=' do';cOz='work';sCz='1m'\''';iKz='"━━━';LHz='" ];';DWz='lear';FEz='rt W';JVz='{BIC';UUz=' del';rMz='${uu';iDz='GREE';mWz='key ';EGz='/nul';pRz='ipxr';NEz='="\e';tSz='r.tx';rNz='.com';ZNz='un&s';bBz='ite=';oNz='grpc';CLz='at /';EQz='essg';WOz='PC  ';cIz='(){';aNz='ecur';GTz='| so';ALz='UMBE';JBz=''\''   ';wGz='cal/';vIz='y/co';jPz='-i '\''';rTz='exp4';kOz='k1}"';VIz='clea';oRz='tmp/';eRz='p://';DPz='ss';xHz='ON';xGz='etc/';jIz='zip.';rRz='xt';YJz='u ha';oLz='t | ';BHz='ni';VVz='s Ac';ELz='/con';ACz='IGre';TDz='"[${';kWz='ess ';BVz='" ${';lMz='%Y-%';ROz='t no';oMz='vles';eTz='$(da';YDz='"';gRz='":" ';XPz='rand';kTz='ow" ';gBz='te='\''';Zz=': //';hIz='4.ic';cRz='-f 3';aBz='BIWh';GIz='r sc';MLz='-f 2';HKz='on" ';dNz='encr';OQz='> /t';FSz='t)';IEz='D}\e';OOz='S   ';YCz='[32;';NVz=' Vle';Mz='ps:/';jTz=' "$n';COz='"Rem';iTz='d2=$';dCz='red(';XIz='func';uLz=' | c';DEz='"\e[';QDz='0m'\''';yEz='}'\''` ';EOz=': ${';pSz='m2";';pUz='n}┌─';YGz='s://';uGz=' /us';sNz='""';VQz='iq`)';lUz='essf';bSz='{GRE';UKz='MBER';lNz='eNam';WNz='k3="';AJz='[ ${';rHz='$IZI';LUz='t Na';IDz='rt C';oKz=' cli';oTz='$mas';sFz=' /et';UTz=' use';YPz='om/u';wDz='SEND';gKz=' ]];';ZLz='-w "';CRz='cp:/';hFz='2) /';yVz='case';NGz='MYIP';SOz='ne T';yDz='VE="';yPz='emai';NFz=' $us';NSz='y/ac';oDz='NG="';rz='k';YRz='ail ';wOz=' bac';GBz='='\''\0';rWz=' ; s';dOz=': ws';GCz='IBlu';WDz='R ${';NPz='-dc ';LMz='tc/x';FVz='  ${';iMz=' "0 ';qGz='rint';IKz='| cu';BMz='/g'\'')';DMz='in=$';YHz='miss';iEz=' /ro';mUz='ully';hz='d "$';cKz='${NU';KJz='[0;4';rUz='┐${N';pDz='[${Y';LLz=''\'' '\'' ';hRz='-f 1';pQz='2=( ';dz='te +';qLz='"Vle';lJz=' vie';wKz='TS}]';HBz='33[1';rKz=' " C';nOz='k gR';FRz='sort';gIz=' ipv';HOz='ain ';LCz='95m'\''';vDz='END=';sz='BIRe';hUz='d" /';xKz=': " ';GHz='Blom';ZBz='Cyan';wMz='3?pa';TQz='ort ';AOz='═══\';HNz='ype=';hJz='elec';kLz='~/lo';KQz='t xr';TVz='] Tr';jOz='k TL';XNz='3?mo';rCz='[0;3';JKz='t -d';LTz=' ent';XWz='etai';OIz='exit';iIz='anha';OKz=''\'') '\''';xJz='o  U';aHz='Acce';MCz='ICya';WRz='p -w';VTz=' -z ';jGz='ssio';ZMz='E "^';pPz='er $';tOz='s an';nNz='ess-';WSz='" -f';lGz='in/i';yRz='m2/d';XHz='"Per';tQz='ay/a';JUz='y Re';ITz=' uni';AIz='e/ne';UFz='e -d';SRz='acce';WCz='ho -';XEz='serc';HEz='${RE';nVz='e}6$';jFz='00 )';AFz=')';OMz='ig.j';UDz='RED}';oBz='Red=';qJz=' CTR';SWz='ws ;';SGz='.ica';OSz='cess';gFz=' - d';vSz='ewws';hWz='-e "';RUz='n  :';pBz='3[0;';NRz='jum=';iVz='k Us';VDz=' ERO';RCz='\e[0';UBz='Purp';tLz='TLS"';AGz='$use';aPz='masa';EPz=' tri';UCz='n() ';HIz='ript';eVz='] Re';ZIz=' det';VGz='om)';vWz='esac';GRz=' | u';Gz=' --i';dDz='INFO';EUz=' Acc';MKz='| nl';XVz='t   ';pFz='; th';hPz='s" +';MTz='er t';Kz='lent';nz='90m'\''';QWz=' ; r';xPz=''\''","';kNz='rvic';cMz='son"';rEz=' -E ';kVz='ctiv';AWz=' $op';aGz='gith';sWz='leep';mCz='3[0m';lHz=' | g';wRz='-i "';BDz='rt B';CWz='1) c';ZTz='ys):';wIz='nfig';aJz='o ex';wUz='NU  ';DSz='1';TOz='LS  ';mJz='w th';KLz=' -d ';uBz='[0;9';QMz='t -b';hEz='ip >';PJz='Deta';sPz='},{"';sGz=' $Na';rFz='er >';KRz='{dat';eMz=''\'' -f';vNz='XRAY';eCz=') { ';vMz='}:44';uQz='cces';NTz='o go';TJz='s   ';iFz=' 864';KIz=' upd';iBz='7m'\'' ';bJz='isti';cSz='EN} ';MBz='ue='\''';MFz='^###';QGz='-sS ';RHz='e" =';pJz='ress';SBz='rple';RSz='n" |';HRz='niq`';sUz='C}"';WWz='6) c';XRz=' | t';BOz='0m"';OUz=' " E';qFz='en';ERz=' ":"';PSz='.log';rJz='L+C ';kHz='$4}'\''';wEz='prin';jRz='iq)';kRz='jum"';PRz='t /v';kBz='le='\''';ICz='0;94';DBz='n';qKz='[1]:';KSz='logi';jBz='On_I';MWz=' ; d';IMz='=$(g';tGz='me >';xMz='th=/';mIz='NUMB';eQz='akun';FNz='n=no';yKz='NT_N';yUz='n}└─';JIz='d to';RGz='ipv4';eGz='t.co';kQz='da"';fSz='D}On';WEz='hubu';vUz='S ME';OBz='[1;9';JLz=' cut';pTz='aakt';NMz='conf';GEz='ARNI';IPz='=tri';ILz='#'\'' |';SNz='&typ';gPz=' day';yz='BIGr';rPz=''\''\';gVz='e}5$';HCz='e='\''\';ABz='een=';jEz='ot/t';tRz='p" >';eDz=' ${N';WIz='r';EBz='BIYe';Vz='sed ';VUz='Dele';TKz='T_NU';sRz=' "$i';Ez='(cur';KOz=': $e';RIz=' [ "';JEz='[5m"';vOz='y to';IBz=';93m';NIz='t !"';lQz='mp/i';FIz='"You';uUz='VLES';JTz='q';MEz='LINE';uz='033[';POz=': 44';bMz=' "/e';oCz='expo';qEz='p | ';sHz='N" ]';bKz='-le ';uSz=' ren';GUz=' Was';pCz='rt R';XQz='----';CEz='OLD=';RMz=' 11-';FTz=' -t ';NLz=' | s';fPz='ktif';bTz='wE "';DKz='c/xr';XFz='+%s`';sJz='to r';FDz='URPL';BPz='menu';KWz='s ;;';lBz='[0;1';UNz='#${u';RWz='enew';fWz='*) e';FJz='34m━';Nz='/goo';XSz=' 2 |';DHz='ne=$';CPz='-vle';Tz=' Dat';KDz='36m'\''';xRz='/$ju';vQz='s.lo';FUz='ount';sBz='IBla';SSz=' tai';fNz='on=n';GOz='"Dom';ZSz='"use';Dz='er=$';HFz='do';QIz='elif';VHz='"Exp';cBz='97m'\''';JCz='IPur';eBz='e';eIz='get ';vHz='ed!"';ZQz='---=';yQz='500 ';Jz='--si';iGz='ermi';dEz='perm';eWz='xit ';uFz='.ini';EWz=' ; a';xOz='k on';FOz='}"';dUz='/^##';vVz='" Se';yIz='n")';dFz='exp2';SVz='e}2$';CVz='an}┌';sDz='{NC}';mGz=' $MY';ySz='━━━$';uMz='main';kDz='KEY ';qIz='S=$(';oHz=' "$M';GSz=']]; ';OTz='k"';TBz=';95m';KGz='oot/';fHz='ON (';Fz='l -v';hGz='ev/p';BQz='"'\''""';YOz='"Enc';LEz='NDER';vKz='OF_C';TNz='e=ws';eSz='un} ';LSz='n=$(';EEz='1m"';HUz=' Suc';UMz=' -n ';LQz='ay';fVz='new ';DCz='IYel';cTz='niq)';ZJz='ve n';Iz='ure ';PLz='n "$';jJz='e ex';GQz='syst';PPz='-9 |';vz='1;91';mRz='um" ';oVz='e}0$';vJz=' "  ';gz='d" -';VOz='t gR';lPz='ess$';eUz='# $u';xz='Red';aWz='0) c';aMz='#& "';QKz='l [[';pOz='1 -s';nRz='>> /';AQz='l": ';wJz='   N';yNz='═══$';kJz='t to';EVz='"   ';jHz='int ';IOz='in}"';KVz='yan}';CMz='doma';uDz='rt S';nPz='## '\''';gMz='hari';hCz='"\\0';ASz='" /t';OCz='0;96';XDz='NC}]';dSz='${ak';HMz='uuid';yGz='.$Na';fRz='g'\'' |';NUz='er"';eEz='issi';oSz='"$ju';YQz='-";';eHz='ISSI';rGz=' $2}';QJz='il X';kFz='if [';pKz='ent ';rQz=' /va';FCz='93m'\''';MMz='ray/';sOz='Pres';VKz='} -g';uPz=' "'\''"';MNz='}:80';DLz='xray';pMz='slin';ZKz='ENT_';UIz=' -ne';yCz='W='\''\';RPz='d -c';tEz='# " ';UVz='ial ';ZFz=' "$b';tIz='/etc';SPz='4`';FKz='onfi';WKz='e 1 ';TLz='"$(c';RKz=' ${C';CDz='LUE=';hBz='[4;3';kMz='" +"';EKz='ay/c';fQz='[ -z';CJz='= '\''0';fIz='-qO-';nDz='ENDI';xUz='│$NC';vTz='\###';CQz='r""'\''';bOz='"Net';rDz='NG $';pLz=' -w ';tPz='id":';ZRz='-n 5';OFz='er" ';tKz='{NUM';QSz='$aku';LJz='1;36';wPz='id""';ODz='rt N';mMz='m-%d';PWz='4) c';UQz='| un';HPz='){';Az='date';nGz='IP |';VEz='.git';hOz=': vl';BGz='r.in';tWz=' 1 ;';lRz=' "$j';ATz=' Ren';wBz='IRed';IGz='done';VSz='d " ';eLz='|sed';nCz='"; }';bWz=' ; m';pIz='IENT';dHz='PERM';rSz='rf /';QBz='Blue';rBz=''\''';kIz='com)';TGz='nhaz';HSz='xt |';DGz='/dev';jKz='read';BBz='92m'\''';GNz='ne&t';bVz='lete';fOz='h   ';HTz='rt |';vRz='xt)';CNz='ls&e';wTz='son';hNz='type';kEz='mp';lDz='${NC';ADz='0;33';PNz='&enc';EJz='"\03';fCz='echo';iz='er"`';XJz=' "Yo';qCz='ED='\''';xLz='f2|s';cUz='ed  ';WUz='te X';qTz='if))';JDz='YAN=';gHz='IZIN';tBz='ck='\''';PEz='BURI';ZEz='nt.c';JHz=' -f ';nJz='e co';UGz='ip.c';ULz='at ~';SQz=' '\''##';KPz='/ura';ESz='t /t';xCz='ELLO';sEz='"^##';hTz='+%s)';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$z$bz$cz$dz$ez$fz$gz$hz$Az$Bz$Cz$iz$z$jz$kz$lz$mz$nz$oz$pz$qz$rz$z$sz$tz$uz$vz$wz$oz$pz$xz$z$yz$ABz$lz$mz$BBz$oz$pz$CBz$DBz$z$EBz$FBz$GBz$HBz$IBz$JBz$pz$KBz$LBz$z$jz$MBz$NBz$OBz$PBz$oz$pz$QBz$z$RBz$SBz$GBz$HBz$TBz$JBz$pz$UBz$VBz$z$WBz$XBz$NBz$OBz$YBz$oz$pz$ZBz$z$aBz$bBz$lz$mz$cBz$oz$pz$dBz$eBz$z$fBz$gBz$NBz$hBz$iBz$oz$pz$dBz$eBz$z$jBz$UBz$kBz$NBz$lBz$mBz$nBz$z$jBz$oBz$lz$pBz$qBz$rBz$z$sBz$tBz$NBz$uBz$vBz$oz$pz$qz$rz$z$wBz$GBz$xBz$yBz$JBz$oz$pz$xz$z$ACz$BCz$NBz$uBz$CCz$oz$pz$CBz$DBz$z$DCz$ECz$lz$pBz$FCz$oz$pz$KBz$LBz$z$GCz$HCz$uz$ICz$wz$oz$pz$QBz$z$JCz$KCz$lz$pBz$LCz$oz$pz$UBz$VBz$z$MCz$NCz$uz$OCz$wz$oz$pz$ZBz$z$PCz$gBz$NBz$uBz$iBz$oz$pz$dBz$eBz$z$QCz$RCz$SCz$z$TCz$UCz$VCz$WCz$XCz$NBz$YCz$ZCz$aCz$uz$bCz$cCz$z$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$z$oCz$pCz$qCz$NBz$rCz$sCz$z$oCz$tCz$uCz$GBz$xBz$vCz$rBz$z$oCz$wCz$xCz$yCz$uz$ADz$SCz$z$oCz$BDz$CDz$lz$pBz$DDz$z$oCz$EDz$FDz$GDz$uz$HDz$SCz$z$oCz$IDz$JDz$lz$pBz$KDz$z$oCz$LDz$MDz$GBz$xBz$NDz$rBz$z$oCz$ODz$PDz$uz$QDz$z$oCz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$z$oCz$ZDz$aDz$TDz$bDz$cDz$dDz$eDz$fDz$z$oCz$gDz$hDz$TDz$iDz$jDz$kDz$lDz$mDz$z$oCz$EDz$nDz$oDz$pDz$xCz$qDz$nDz$rDz$sDz$tDz$z$oCz$uDz$vDz$TDz$bDz$cDz$wDz$eDz$fDz$z$oCz$pCz$xDz$yDz$pDz$xCz$AEz$xDz$BEz$sDz$tDz$z$oCz$BDz$CEz$DEz$EEz$z$oCz$FEz$GEz$oDz$HEz$IEz$JEz$z$oCz$KEz$LEz$MEz$NEz$OEz$z$PEz$QEz$REz$z$SEz$TEz$Lz$Mz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$z$lEz$mEz$nEz$oEz$pEz$qEz$Sz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$z$BFz$CFz$DFz$EFz$FFz$GFz$z$HFz$z$IFz$JFz$KFz$LFz$MFz$NFz$OFz$PFz$jEz$QFz$uEz$vEz$wEz$RFz$yEz$AFz$z$SFz$TFz$UFz$VFz$WFz$XFz$AFz$z$YFz$TFz$UFz$ZFz$aFz$bFz$cFz$z$dFz$eFz$fFz$gFz$hFz$iFz$jFz$AFz$z$kFz$lFz$dFz$mFz$nFz$oFz$pFz$qFz$z$fCz$NFz$rFz$sFz$tFz$CFz$uFz$z$vFz$z$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$z$HGz$z$IGz$z$wFz$JGz$KGz$LGz$z$MGz$z$NGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$z$WGz$OGz$PGz$QGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$jGz$kGz$lGz$qEz$Sz$mGz$nGz$oGz$pGz$qGz$rGz$az$z$fCz$sGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$z$CHz$DHz$EHz$uGz$vGz$wGz$xGz$yGz$AHz$FHz$z$GHz$HHz$IHz$z$kFz$JHz$KHz$tFz$WGz$uFz$LHz$MHz$DBz$z$NHz$OHz$EHz$sFz$tFz$WGz$uFz$AFz$z$kFz$PHz$QHz$RHz$PHz$SHz$THz$pFz$qFz$z$UHz$VHz$WHz$YDz$z$HGz$z$vFz$z$UHz$XHz$YHz$ZHz$aHz$bHz$cHz$z$HGz$z$MGz$z$dHz$eHz$fHz$IHz$z$NGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$z$gHz$OGz$PGz$QGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$jGz$kGz$lGz$qEz$hHz$iHz$jHz$kHz$lHz$KFz$mHz$nHz$z$kFz$oHz$pHz$qHz$rHz$sHz$pFz$qFz$z$GHz$tHz$z$vFz$z$UHz$XHz$YHz$ZHz$uHz$vHz$z$HGz$z$PEz$wHz$z$MGz$z$dHz$eHz$xHz$z$kFz$JHz$yHz$AIz$BIz$Az$CIz$DIz$z$EIz$FIz$GIz$HIz$IIz$JIz$KIz$LIz$MIz$NIz$z$OIz$PIz$z$QIz$RIz$SIz$TIz$XHz$YHz$ZHz$aHz$bHz$cHz$CIz$DIz$z$fCz$UIz$z$vFz$z$EIz$XHz$YHz$ZHz$uHz$vHz$z$OIz$PIz$z$HGz$z$VIz$WIz$z$XIz$YIz$ZIz$aIz$bIz$cIz$z$VIz$WIz$z$NGz$dIz$eIz$fIz$gIz$hIz$iIz$jIz$kIz$lIz$z$mIz$nIz$oIz$pIz$qIz$Sz$rIz$LFz$MFz$sIz$tIz$uIz$vIz$wIz$xIz$yIz$z$kFz$AJz$mIz$nIz$oIz$pIz$BJz$CJz$DJz$pFz$qFz$z$fCz$gCz$EJz$pBz$FJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$HJz$xBz$IJz$z$fCz$gCz$JJz$KJz$LJz$MJz$NJz$OJz$PJz$QJz$RJz$SJz$TJz$UJz$VJz$z$fCz$gCz$EJz$pBz$FJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$HJz$xBz$IJz$z$fCz$WJz$z$fCz$XJz$YJz$ZJz$aJz$bJz$cJz$dJz$eJz$z$VIz$WIz$z$OIz$fJz$z$HGz$z$fCz$gCz$EJz$pBz$FJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$HJz$xBz$IJz$z$fCz$gCz$JJz$KJz$LJz$MJz$NJz$OJz$PJz$QJz$RJz$SJz$TJz$UJz$VJz$z$fCz$gCz$EJz$pBz$FJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$HJz$xBz$IJz$z$fCz$gJz$hJz$iJz$jJz$bJz$cJz$dJz$kJz$lJz$mJz$nJz$wIz$YDz$z$fCz$oJz$pJz$qJz$rJz$sJz$tJz$uJz$z$fCz$gCz$EJz$pBz$FJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$HJz$xBz$IJz$z$fCz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$z$Sz$rEz$sEz$tEz$KHz$DKz$EKz$FKz$GKz$HKz$IKz$JKz$KKz$JHz$LKz$MKz$NKz$OKz$z$PKz$QKz$RKz$SKz$TKz$UKz$VKz$WKz$XKz$YKz$ZKz$mIz$aKz$bKz$cKz$UKz$dKz$eKz$fKz$gKz$hKz$z$kFz$AJz$mIz$nIz$oIz$pIz$BJz$CJz$DJz$pFz$qFz$z$fCz$gCz$iKz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$YDz$z$jKz$kKz$lKz$mKz$nKz$oKz$pKz$qKz$rKz$SKz$TKz$UKz$z$vFz$z$jKz$kKz$lKz$mKz$nKz$oKz$pKz$sKz$tKz$uKz$vKz$SKz$wKz$xKz$eKz$yKz$ALz$BLz$z$HGz$z$IGz$z$CFz$OGz$CLz$xGz$DLz$ELz$FLz$GLz$lHz$KFz$HLz$ILz$JLz$KLz$LLz$MLz$NLz$OLz$PLz$YKz$ZKz$mIz$QLz$RLz$z$SLz$TLz$ULz$VLz$WLz$XLz$YLz$lHz$KFz$ZLz$SJz$aLz$bLz$JLz$cLz$dLz$eLz$fLz$gLz$hLz$z$iLz$jLz$nEz$kLz$lLz$mLz$nLz$oLz$Sz$pLz$qLz$rLz$sLz$tLz$uLz$vLz$wLz$xLz$yLz$AMz$BMz$YDz$z$CMz$DMz$EHz$sFz$DKz$EMz$FMz$GMz$z$HMz$IMz$KFz$JMz$KMz$LMz$MMz$NMz$OMz$PMz$IKz$QMz$RMz$SMz$TMz$UMz$VMz$SKz$TKz$UKz$WMz$z$IFz$XMz$YMz$ZMz$aMz$bMz$LMz$MMz$NMz$OMz$cMz$uLz$vLz$dMz$eMz$fMz$TMz$UMz$VMz$SKz$TKz$UKz$WMz$z$gMz$hMz$TFz$UFz$iMz$jMz$kMz$lMz$mMz$nMz$z$oMz$pMz$qMz$oMz$YGz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$oMz$yMz$ANz$BNz$CNz$DNz$ENz$FNz$GNz$HNz$INz$JNz$KNz$z$oMz$pMz$LNz$oMz$YGz$rMz$sMz$tMz$uMz$MNz$NNz$ONz$bIz$PNz$QNz$RNz$iLz$SNz$TNz$UNz$VNz$YDz$z$oMz$pMz$WNz$oMz$YGz$rMz$sMz$tMz$uMz$vMz$XNz$YNz$ZNz$aNz$bNz$cNz$dNz$eNz$fNz$gNz$hNz$iNz$jNz$kNz$lNz$mNz$nNz$oNz$pNz$qNz$rNz$UNz$VNz$YDz$z$VIz$WIz$z$fCz$gCz$sNz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$vNz$wNz$xNz$uNz$uNz$yNz$sDz$YDz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$AOz$uz$BOz$z$fCz$gCz$COz$DOz$oz$oz$EOz$CFz$FOz$z$fCz$gCz$GOz$HOz$oz$oz$EOz$CMz$IOz$z$fCz$gCz$VHz$WHz$JOz$oz$KOz$LOz$z$fCz$gCz$MOz$NOz$OOz$oz$POz$QOz$z$fCz$gCz$MOz$ROz$SOz$TOz$UOz$YDz$z$fCz$gCz$MOz$VOz$WOz$oz$POz$QOz$z$fCz$gCz$XOz$oz$oz$oz$EOz$HMz$FOz$z$fCz$gCz$YOz$QNz$ZHz$oz$ZOz$aOz$z$fCz$gCz$bOz$cOz$oz$oz$dOz$YDz$z$fCz$gCz$eOz$fOz$oz$oz$gOz$bIz$YDz$z$fCz$gCz$eOz$fOz$oz$oz$hOz$nNz$oNz$YDz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$AOz$uz$BOz$z$fCz$gCz$iOz$jOz$OOz$oz$EOz$oMz$pMz$kOz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$AOz$uz$BOz$z$fCz$gCz$iOz$lOz$SOz$TOz$EOz$oMz$pMz$mOz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$AOz$uz$BOz$z$fCz$gCz$iOz$nOz$WOz$oz$EOz$oMz$pMz$oOz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$AOz$uz$BOz$z$fCz$WJz$z$jKz$UMz$pOz$qOz$rOz$sOz$tOz$uOz$vOz$wOz$xOz$yOz$APz$z$BPz$CPz$DPz$z$MGz$z$XIz$YIz$EPz$FPz$GPz$HPz$z$CFz$IPz$JPz$DGz$KPz$LPz$MPz$NPz$OPz$PPz$QPz$RPz$SPz$z$HMz$OGz$CLz$TPz$UPz$VPz$WPz$XPz$YPz$ZPz$z$CMz$DMz$EHz$sFz$DKz$EMz$FMz$GMz$z$aPz$bPz$cPz$z$IFz$TFz$UFz$dPz$ePz$fPz$gPz$hPz$ez$fz$iPz$z$Vz$jPz$kPz$lPz$mPz$nPz$oPz$pPz$qPz$rPz$z$sPz$tPz$uPz$vPz$wPz$xPz$yPz$AQz$BQz$AGz$CQz$DQz$xGz$DLz$ELz$FLz$GLz$z$Vz$jPz$kPz$EQz$FQz$mPz$nPz$oPz$pPz$qPz$rPz$z$sPz$tPz$uPz$vPz$wPz$xPz$yPz$AQz$BQz$AGz$CQz$DQz$xGz$DLz$ELz$FLz$GLz$z$oMz$pMz$qMz$oMz$YGz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$oMz$yMz$ANz$BNz$CNz$DNz$ENz$FNz$GNz$HNz$INz$JNz$KNz$z$oMz$pMz$LNz$oMz$YGz$rMz$sMz$tMz$uMz$MNz$NNz$ONz$bIz$PNz$QNz$RNz$iLz$SNz$TNz$UNz$VNz$YDz$z$oMz$pMz$WNz$oMz$YGz$rMz$sMz$tMz$uMz$vMz$XNz$YNz$ZNz$aNz$bNz$cNz$dNz$eNz$fNz$gNz$hNz$iNz$jNz$kNz$lNz$mNz$nNz$oNz$pNz$qNz$rNz$UNz$VNz$YDz$z$GQz$HQz$IQz$JQz$KQz$LQz$z$VIz$WIz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$vNz$wNz$xNz$uNz$uNz$yNz$sDz$YDz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$AOz$uz$BOz$z$fCz$gCz$COz$DOz$oz$oz$EOz$CFz$FOz$z$fCz$gCz$GOz$HOz$oz$oz$EOz$CMz$IOz$z$fCz$gCz$MOz$NOz$OOz$oz$POz$QOz$z$fCz$gCz$MOz$ROz$SOz$TOz$UOz$YDz$z$fCz$gCz$MOz$VOz$WOz$oz$POz$QOz$z$fCz$gCz$XOz$oz$oz$oz$EOz$HMz$FOz$z$fCz$gCz$YOz$QNz$ZHz$oz$ZOz$aOz$z$fCz$gCz$bOz$cOz$oz$oz$dOz$YDz$z$fCz$gCz$eOz$fOz$oz$oz$gOz$bIz$YDz$z$fCz$gCz$eOz$fOz$oz$oz$hOz$nNz$oNz$YDz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$AOz$uz$BOz$z$fCz$gCz$iOz$jOz$OOz$oz$EOz$oMz$pMz$kOz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$AOz$uz$BOz$z$fCz$gCz$iOz$lOz$SOz$TOz$EOz$oMz$pMz$mOz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$AOz$uz$BOz$z$fCz$gCz$iOz$nOz$WOz$oz$EOz$oMz$pMz$oOz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$AOz$uz$BOz$z$fCz$gCz$VHz$WHz$JOz$oz$KOz$LOz$z$fCz$gCz$EJz$pBz$tNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$uNz$AOz$uz$BOz$z$fCz$WJz$z$jKz$UMz$pOz$qOz$rOz$sOz$tOz$uOz$vOz$wOz$xOz$yOz$APz$z$BPz$CPz$DPz$z$MGz$z$XIz$YIz$MQz$NQz$REz$z$VIz$WIz$z$fCz$UMz$OQz$PQz$QQz$YLz$z$lEz$mEz$nEz$tIz$uIz$vIz$wIz$xIz$RQz$Sz$SQz$ILz$JLz$KLz$LLz$MLz$NLz$TQz$UQz$VQz$lIz$z$fCz$WQz$XQz$XQz$XQz$XQz$XQz$XQz$XQz$YQz$z$fCz$WQz$ZQz$aQz$bQz$yJz$cQz$dQz$XQz$YQz$z$fCz$WQz$XQz$XQz$XQz$XQz$XQz$XQz$XQz$YQz$z$BFz$eQz$DFz$EFz$FFz$GFz$z$HFz$z$kFz$fQz$gQz$hQz$gKz$MHz$DBz$z$eQz$iQz$jQz$kQz$z$HGz$z$fCz$UMz$OQz$lQz$mQz$nQz$oQz$z$lEz$pQz$qQz$rQz$vGz$sQz$tQz$uQz$vQz$wQz$xQz$UMz$yQz$IKz$JKz$sIz$JHz$ARz$Vz$BRz$CRz$DRz$IKz$JKz$ERz$JHz$Rz$FRz$GRz$HRz$IRz$z$BFz$JRz$PLz$KRz$LRz$MRz$z$HFz$z$NRz$ORz$PRz$QRz$RRz$MMz$SRz$TRz$URz$VRz$WRz$gQz$hQz$XRz$YRz$ZRz$aRz$JLz$KLz$bRz$cRz$NLz$yLz$dRz$eRz$fRz$JLz$KLz$gRz$hRz$lHz$KFz$ZLz$iRz$NLz$TQz$UQz$jRz$z$kFz$lFz$kRz$qHz$iRz$gKz$MHz$DBz$z$fCz$lRz$mRz$nRz$oRz$pRz$qRz$rRz$z$vFz$z$fCz$sRz$tRz$OQz$PQz$QQz$YLz$z$HGz$z$uRz$OGz$CLz$oRz$pRz$qRz$vRz$z$Vz$wRz$xRz$yRz$ASz$PQz$QQz$YLz$BSz$cEz$CSz$Qz$DSz$z$IGz$z$NRz$ORz$ESz$lQz$mQz$nQz$FSz$z$kFz$fQz$lRz$mRz$GSz$DIz$z$fCz$BSz$cEz$CSz$z$vFz$z$uRz$OGz$CLz$oRz$pRz$qRz$HSz$ISz$z$JSz$KSz$LSz$nEz$MSz$VLz$uIz$NSz$OSz$PSz$lHz$KFz$ZLz$QSz$RSz$SSz$TSz$USz$uLz$vLz$VSz$WSz$XSz$SSz$YSz$AFz$z$fCz$gCz$ZSz$aSz$bSz$cSz$dSz$eSz$lDz$MGz$z$HEz$fSz$gSz$hSz$eDz$iSz$jSz$kSz$lSz$mSz$nSz$z$fCz$gCz$oSz$pSz$z$fCz$WQz$XQz$XQz$XQz$XQz$XQz$XQz$XQz$qSz$z$HGz$z$wFz$rSz$oRz$pRz$qRz$rRz$z$IGz$z$wFz$rSz$oRz$sSz$tSz$oQz$z$fCz$WJz$z$jKz$UMz$pOz$qOz$rOz$sOz$tOz$uOz$vOz$wOz$xOz$yOz$APz$z$BPz$z$MGz$z$XIz$YIz$uSz$vSz$cIz$z$VIz$WIz$z$mIz$nIz$oIz$pIz$qIz$Sz$rIz$LFz$MFz$sIz$tIz$uIz$vIz$wIz$xIz$yIz$z$kFz$AJz$mIz$nIz$oIz$pIz$BJz$CJz$DJz$pFz$qFz$z$VIz$WIz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$gCz$JJz$KJz$LJz$MJz$oz$oz$ATz$BTz$bIz$oz$oz$oz$CTz$IJz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$WJz$z$fCz$XJz$YJz$ZJz$aJz$bJz$cJz$dJz$eJz$z$fCz$WJz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$WJz$z$jKz$UMz$pOz$qOz$rOz$sOz$tOz$uOz$vOz$wOz$xOz$yOz$APz$z$BPz$z$HGz$z$VIz$WIz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$gCz$JJz$KJz$LJz$MJz$oz$oz$ATz$BTz$bIz$oz$oz$oz$CTz$IJz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$WJz$z$Sz$rEz$sEz$tEz$KHz$DKz$EKz$FKz$GKz$HKz$IKz$JKz$KKz$JHz$LKz$DTz$ETz$FTz$GTz$HTz$ITz$JTz$z$fCz$WJz$z$EIz$KTz$LTz$MTz$NTz$wOz$OTz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$jKz$kKz$PTz$QTz$RTz$STz$TTz$UTz$WIz$z$kFz$VTz$AGz$WTz$MHz$DBz$z$BPz$z$vFz$z$jKz$XTz$VHz$WHz$YTz$ZTz$aTz$ePz$fPz$z$IFz$XMz$YMz$bTz$MFz$NFz$OFz$KHz$DKz$EKz$FKz$GKz$HKz$IKz$JKz$KKz$JHz$ARz$FRz$GRz$cTz$z$dTz$eTz$dz$lMz$mMz$AFz$z$fTz$gTz$UFz$VFz$WFz$hTz$z$iTz$gTz$UFz$jTz$kTz$hTz$z$dFz$eFz$fFz$gFz$hFz$iFz$jFz$AFz$z$lTz$eFz$mTz$nTz$oTz$pTz$qTz$z$rTz$cz$sTz$hz$lTz$gPz$hPz$ez$fz$iPz$z$Vz$wRz$tTz$NFz$uTz$vTz$NFz$pPz$rTz$KMz$LMz$MMz$NMz$OMz$wTz$z$GQz$HQz$IQz$JQz$KQz$xTz$yTz$AUz$BUz$CUz$z$VIz$WIz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$DUz$bIz$EUz$FUz$GUz$HUz$OSz$IUz$JUz$KUz$CKz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$WJz$z$fCz$rKz$dJz$LUz$MUz$NFz$NUz$z$fCz$OUz$PUz$QUz$RUz$SUz$TUz$z$fCz$WJz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$WJz$z$jKz$UMz$pOz$qOz$rOz$sOz$tOz$uOz$vOz$wOz$xOz$yOz$APz$z$BPz$z$HGz$z$MGz$z$XIz$YIz$UUz$NQz$REz$z$VIz$WIz$z$mIz$nIz$oIz$pIz$qIz$Sz$rIz$LFz$MFz$sIz$tIz$uIz$vIz$wIz$xIz$yIz$z$kFz$AJz$mIz$nIz$oIz$pIz$BJz$CJz$DJz$pFz$qFz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$gCz$JJz$KJz$LJz$MJz$oz$VUz$WUz$RJz$EUz$FUz$oz$oz$CTz$IJz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$WJz$z$fCz$XJz$YJz$ZJz$aJz$bJz$cJz$dJz$eJz$z$fCz$WJz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$jKz$UMz$pOz$qOz$rOz$sOz$tOz$uOz$vOz$wOz$xOz$yOz$APz$z$BPz$z$HGz$z$VIz$WIz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$gCz$JJz$KJz$LJz$MJz$oz$VUz$WUz$RJz$XUz$YUz$oz$ZUz$aUz$YDz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$vJz$RTz$oz$bUz$PUz$cUz$YDz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$Sz$rEz$sEz$tEz$KHz$DKz$EKz$FKz$GKz$HKz$IKz$JKz$KKz$JHz$LKz$DTz$ETz$FTz$GTz$HTz$ITz$JTz$z$fCz$WJz$z$EIz$KTz$LTz$MTz$NTz$wOz$OTz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$jKz$kKz$PTz$QTz$RTz$STz$TTz$UTz$WIz$z$kFz$VTz$AGz$WTz$MHz$DBz$z$BPz$z$vFz$z$IFz$XMz$YMz$bTz$MFz$NFz$OFz$KHz$DKz$EKz$FKz$GKz$HKz$IKz$JKz$KKz$JHz$ARz$FRz$GRz$cTz$z$Vz$wRz$dUz$eUz$yJz$mTz$fUz$gUz$hUz$xGz$DLz$ELz$FLz$GLz$z$GQz$HQz$IQz$JQz$KQz$xTz$yTz$AUz$BUz$CUz$z$VIz$WIz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$iUz$RJz$XUz$YUz$VUz$jUz$kUz$lUz$mUz$YDz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$rKz$dJz$LUz$MUz$NFz$NUz$z$fCz$OUz$PUz$QUz$RUz$SUz$nUz$z$fCz$gCz$wSz$xSz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$GJz$ySz$sDz$YDz$z$fCz$WJz$z$jKz$UMz$pOz$qOz$rOz$sOz$tOz$uOz$vOz$wOz$xOz$yOz$APz$z$BPz$z$HGz$z$MGz$z$VIz$WIz$z$fCz$gCz$oUz$MCz$pUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$rUz$sUz$z$fCz$gCz$oUz$MCz$tUz$oz$oz$oz$oz$oz$uUz$vUz$wUz$oz$oz$oz$oz$xUz$YDz$z$fCz$gCz$oUz$MCz$yUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$AVz$sUz$z$fCz$gCz$BVz$WBz$CVz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$DVz$lDz$FOz$z$fCz$gCz$EVz$FVz$WBz$GVz$HVz$dBz$IVz$JVz$KVz$LVz$MVz$NVz$OVz$PVz$QVz$RVz$z$fCz$gCz$EVz$FVz$WBz$GVz$HVz$dBz$SVz$JVz$KVz$TVz$UVz$SJz$VVz$WVz$XVz$YVz$z$fCz$gCz$EVz$FVz$WBz$GVz$HVz$dBz$ZVz$JVz$KVz$aVz$bVz$EUz$FUz$NVz$cVz$RVz$z$fCz$gCz$EVz$FVz$WBz$GVz$HVz$dBz$dVz$JVz$KVz$eVz$fVz$XUz$YUz$SJz$TJz$YVz$z$fCz$gCz$EVz$FVz$WBz$GVz$HVz$dBz$gVz$JVz$KVz$hVz$iVz$jVz$kVz$lVz$mVz$RVz$z$fCz$gCz$EVz$FVz$WBz$GVz$HVz$dBz$nVz$JVz$KVz$aVz$xQz$EUz$FUz$NVz$cVz$RVz$z$fCz$gCz$EVz$FVz$WBz$GVz$HVz$dBz$oVz$JVz$KVz$pVz$qVz$rVz$sVz$RVz$z$fCz$gCz$BVz$WBz$tVz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$qUz$uVz$sDz$YDz$z$fCz$WJz$z$jKz$XTz$vVz$mKz$yOz$wVz$xVz$oQz$z$fCz$gCz$sNz$z$yVz$AWz$BWz$z$CWz$DWz$EWz$FWz$bIz$GWz$z$HWz$DWz$IWz$JWz$oMz$KWz$z$LWz$DWz$MWz$NWz$OWz$z$PWz$DWz$QWz$RWz$SWz$lIz$z$TWz$DWz$UWz$VWz$OWz$z$WWz$DWz$MWz$XWz$YWz$ZWz$z$aWz$DWz$bWz$cWz$OWz$z$dWz$eWz$OWz$z$fWz$gWz$hWz$iWz$fCz$jWz$kWz$lWz$mWz$nWz$oWz$pWz$qWz$rWz$sWz$tWz$yOz$uWz$z$vWz"
+#!/bin/bash
+dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
+biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
+
+BIBlack='\033[1;90m'      # Black
+BIRed='\033[1;91m'        # Red
+BIGreen='\033[1;92m'      # Green
+BIYellow='\033[1;93m'     # Yellow
+BIBlue='\033[1;94m'       # Blue
+BIPurple='\033[1;95m'     # Purple
+BICyan='\033[1;96m'       # Cyan
+BIWhite='\033[1;97m'      # White
+UWhite='\033[4;37m'       # White
+On_IPurple='\033[0;105m'  #
+On_IRed='\033[0;101m'
+IBlack='\033[0;90m'       # Black
+IRed='\033[0;91m'         # Red
+IGreen='\033[0;92m'       # Green
+IYellow='\033[0;93m'      # Yellow
+IBlue='\033[0;94m'        # Blue
+IPurple='\033[0;95m'      # Purple
+ICyan='\033[0;96m'        # Cyan
+IWhite='\033[0;97m'       # White
+NC='\e[0m'
+green() { echo -e "\\033[32;1m${*}\\033[0m"; }
+red() { echo -e "\\033[31;1m${*}\\033[0m"; }
+
+# // Export Color & Information
+export RED='\033[0;31m'
+export GREEN='\033[0;32m'
+export YELLOW='\033[0;33m'
+export BLUE='\033[0;34m'
+export PURPLE='\033[0;35m'
+export CYAN='\033[0;36m'
+export LIGHT='\033[0;37m'
+export NC='\033[0m'
+
+# // Export Banner Status Information
+export EROR="[${RED} EROR ${NC}]"
+export INFO="[${YELLOW} INFO ${NC}]"
+export OKEY="[${GREEN} OKEY ${NC}]"
+export PENDING="[${YELLOW} PENDING ${NC}]"
+export SEND="[${YELLOW} SEND ${NC}]"
+export RECEIVE="[${YELLOW} RECEIVE ${NC}]"
+
+# // Export Align
+export BOLD="\e[1m"
+export WARNING="${RED}\e[5m"
+export UNDERLINE="\e[4m"
+
+BURIQ () {
+    curl -sS https://raw.githubusercontent.com/csvpndev/permission/main/ip > /root/tmp
+    data=( `cat /root/tmp | grep -E "^### " | awk '{print $2}'` )
+    for user in "${data[@]}"
+    do
+    exp=( `grep -E "^### $user" "/root/tmp" | awk '{print $3}'` )
+    d1=(`date -d "$exp" +%s`)
+    d2=(`date -d "$biji" +%s`)
+    exp2=$(( (d1 - d2) / 86400 ))
+    if [[ "$exp2" -le "0" ]]; then
+    echo $user > /etc/.$user.ini
+    else
+    rm -f /etc/.$user.ini > /dev/null 2>&1
+    fi
+    done
+    rm -f /root/tmp
+}
+
+MYIP=$(curl -sS ipv4.icanhazip.com)
+Name=$(curl -sS https://raw.githubusercontent.com/csvpndev/permission/main/ip | grep $MYIP | awk '{print $2}')
+echo $Name > /usr/local/etc/.$Name.ini
+CekOne=$(cat /usr/local/etc/.$Name.ini)
+
+Bloman () {
+if [ -f "/etc/.$Name.ini" ]; then
+CekTwo=$(cat /etc/.$Name.ini)
+    if [ "$CekOne" = "$CekTwo" ]; then
+        res="Expired"
+    fi
+else
+res="Permission Accepted..."
+fi
+}
+
+PERMISSION () {
+    MYIP=$(curl -sS ipv4.icanhazip.com)
+    IZIN=$(curl -sS https://raw.githubusercontent.com/csvpndev/permission/main/ip | awk '{print $4}' | grep $MYIP)
+    if [ "$MYIP" = "$IZIN" ]; then
+    Bloman
+    else
+    res="Permission Denied!"
+    fi
+    BURIQ
+}
+PERMISSION
+if [ -f /home/needupdate ]; then
+red "Your script need to update first !"
+exit 0
+elif [ "$res" = "Permission Accepted..." ]; then
+echo -ne
+else
+red "Permission Denied!"
+exit 0
+fi
+clear
+
+function detailvless(){
+clear
+MYIP=$(wget -qO- ipv4.icanhazip.com);
+NUMBER_OF_CLIENTS=$(grep -c -E "^### " "/etc/xray/config.json")
+        if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+                echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+                echo -e "\\E[0;41;36m     Check Detail XRAY Vless     \E[0m"
+                echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+                echo ""
+                echo "You have no existing clients!"
+                clear
+                exit 1
+        fi
+
+        echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+        echo -e "\\E[0;41;36m     Check Detail XRAY Vless     \E[0m"
+        echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+        echo " Select the existing client to view the config"
+        echo " Press CTRL+C to return"
+		echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+        echo "     No  User   Expired"
+        grep -E "^### " "/etc/xray/config.json" | cut -d ' ' -f 2-3 | nl -s ') '
+	until [[ ${CLIENT_NUMBER} -ge 1 && ${CLIENT_NUMBER} -le ${NUMBER_OF_CLIENTS} ]]; do
+                if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+        echo -e "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+                        read -rp "Select one client [1]: " CLIENT_NUMBER
+                else
+                        read -rp "Select one client [1-${NUMBER_OF_CLIENTS}]: " CLIENT_NUMBER
+                fi
+        done
+user=$(cat /etc/xray/config.json | grep '^###' | cut -d ' ' -f 2 | sed -n "${CLIENT_NUMBER}"p)
+tls="$(cat ~/log-install.txt | grep -w "Vless TLS" | cut -d: -f2|sed 's/ //g')"
+none="$(cat ~/log-install.txt | grep -w "Vless None TLS" | cut -d: -f2|sed 's/ //g')"
+domain=$(cat /etc/xray/domain)
+uuid=$(grep "},{" /etc/xray/config.json | cut -b 11-46 | sed -n "${CLIENT_NUMBER}"p)
+exp=$(grep -E "^#& " "/etc/xray/config.json" | cut -d ' ' -f 3 | sed -n "${CLIENT_NUMBER}"p)
+hariini=`date -d "0 days" +"%Y-%m-%d"`
+
+vlesslink1="vless://${uuid}@${domain}:443?path=/vless&security=tls&encryption=none&type=ws#${user}"
+vlesslink2="vless://${uuid}@${domain}:80?path=/vless&encryption=none&type=ws#${user}"
+vlesslink3="vless://${uuid}@${domain}:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=bug.com#${user}"
+
+clear
+echo -e ""
+echo -e "\033[0;34m═════════════XRAY/VLESS═════════════${NC}"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Remarks        : ${user}"
+echo -e "Domain         : ${domain}"
+echo -e "Expired On     : $exp"
+echo -e "Port TLS       : 443"
+echo -e "Port none TLS  : 80"
+echo -e "Port gRPC      : 443"
+echo -e "ID             : ${uuid}"
+echo -e "Encryption     : none"
+echo -e "Network        : ws"
+echo -e "Path           : /vless"
+echo -e "Path           : vless-grpc"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Link TLS       : ${vlesslink1}"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Link none TLS  : ${vlesslink2}"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Link gRPC      : ${vlesslink3}"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu-vless
+}
+function trialvless(){
+user=trial`</dev/urandom tr -dc X-Z0-9 | head -c4`
+uuid=$(cat /proc/sys/kernel/random/uuid)
+domain=$(cat /etc/xray/domain)
+masaaktif=1
+exp=`date -d "$masaaktif days" +"%Y-%m-%d"`
+sed -i '/#vless$/a\### '"$user $exp"'\
+},{"id": "'""$uuid""'","email": "'""$user""'"' /etc/xray/config.json
+sed -i '/#vlessgrpc$/a\### '"$user $exp"'\
+},{"id": "'""$uuid""'","email": "'""$user""'"' /etc/xray/config.json
+vlesslink1="vless://${uuid}@${domain}:443?path=/vless&security=tls&encryption=none&type=ws#${user}"
+vlesslink2="vless://${uuid}@${domain}:80?path=/vless&encryption=none&type=ws#${user}"
+vlesslink3="vless://${uuid}@${domain}:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=bug.com#${user}"
+systemctl restart xray
+clear
+echo -e "\033[0;34m═════════════XRAY/VLESS═════════════${NC}"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Remarks        : ${user}"
+echo -e "Domain         : ${domain}"
+echo -e "Port TLS       : 443"
+echo -e "Port none TLS  : 80"
+echo -e "Port gRPC      : 443"
+echo -e "ID             : ${uuid}"
+echo -e "Encryption     : none"
+echo -e "Network        : ws"
+echo -e "Path           : /vless"
+echo -e "Path           : vless-grpc"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Link TLS       : ${vlesslink1}"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Link none TLS  : ${vlesslink2}"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Link gRPC      : ${vlesslink3}"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo -e "Expired On     : $exp"
+echo -e "\033[0;34m════════════════════════════════════\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu-vless
+}
+function cekws() {
+clear
+echo -n > /tmp/other.txt
+data=( `cat /etc/xray/config.json | grep '###' | cut -d ' ' -f 2 | sort | uniq`);
+echo "-------------------------------";
+echo "-----=[ XRAY User Login ]=-----";
+echo "-------------------------------";
+for akun in "${data[@]}"
+do
+if [[ -z "$akun" ]]; then
+akun="tidakada"
+fi
+echo -n > /tmp/ipxray.txt
+data2=( `cat /var/log/xray/access.log | tail -n 500 | cut -d " " -f 3 | sed 's/tcp://g' | cut -d ":" -f 1 | sort | uniq`);
+for ip in "${data2[@]}"
+do
+jum=$(cat /var/log/xray/access.log | grep -w "$akun" | tail -n 500 | cut -d " " -f 3 | sed 's/tcp://g' | cut -d ":" -f 1 | grep -w "$ip" | sort | uniq)
+if [[ "$jum" = "$ip" ]]; then
+echo "$jum" >> /tmp/ipxray.txt
+else
+echo "$ip" >> /tmp/other.txt
+fi
+jum2=$(cat /tmp/ipxray.txt)
+sed -i "/$jum2/d" /tmp/other.txt > /dev/null 2>&1
+done
+jum=$(cat /tmp/ipxray.txt)
+if [[ -z "$jum" ]]; then
+echo > /dev/null
+else
+jum2=$(cat /tmp/ipxray.txt | nl)
+lastlogin=$(cat /var/log/xray/access.log | grep -w "$akun" | tail -n 500 | cut -d " " -f 2 | tail -1)
+echo -e "user :${GREEN} ${akun} ${NC}
+${RED}Online Jam ${NC}: ${lastlogin} wib";
+echo -e "$jum2";
+echo "-------------------------------"
+fi
+rm -rf /tmp/ipxray.txt
+done
+rm -rf /tmp/other.txt
+
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+}
+function renewws(){
+clear
+NUMBER_OF_CLIENTS=$(grep -c -E "^### " "/etc/xray/config.json")
+	if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+		clear
+        echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+        echo -e "\\E[0;41;36m            Renew Vless            \E[0m"
+        echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+		echo ""
+		echo "You have no existing clients!"
+		echo ""
+		echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+        echo ""
+        read -n 1 -s -r -p "Press any key to back on menu"
+        menu
+	fi
+
+	clear
+	echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    echo -e "\\E[0;41;36m            Renew Vless            \E[0m"
+    echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    echo ""
+  	grep -E "^### " "/etc/xray/config.json" | cut -d ' ' -f 2-3 | column -t | sort | uniq
+    echo ""
+    red "tap enter to go back"
+    echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+	read -rp "Input Username : " user
+    if [ -z $user ]; then
+    menu
+    else
+    read -p "Expired (days): " masaaktif
+    exp=$(grep -wE "^### $user" "/etc/xray/config.json" | cut -d ' ' -f 3 | sort | uniq)
+    now=$(date +%Y-%m-%d)
+    d1=$(date -d "$exp" +%s)
+    d2=$(date -d "$now" +%s)
+    exp2=$(( (d1 - d2) / 86400 ))
+    exp3=$(($exp2 + $masaaktif))
+    exp4=`date -d "$exp3 days" +"%Y-%m-%d"`
+    sed -i "/### $user/c\### $user $exp4" /etc/xray/config.json
+    systemctl restart xray > /dev/null 2>&1
+    clear
+    echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    echo " Vless Account Was Successfully Renewed"
+    echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    echo ""
+    echo " Client Name : $user"
+    echo " Expired On  : $exp4"
+    echo ""
+    echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    echo ""
+    read -n 1 -s -r -p "Press any key to back on menu"
+    menu
+  fi
+}
+function delws() {
+clear
+NUMBER_OF_CLIENTS=$(grep -c -E "^### " "/etc/xray/config.json")
+	if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+		echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+        echo -e "\\E[0;41;36m       Delete XRAY  Account        \E[0m"
+        echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+		echo ""
+		echo "You have no existing clients!"
+		echo ""
+		echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+		read -n 1 -s -r -p "Press any key to back on menu"
+        menu
+	fi
+
+	clear
+	echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    echo -e "\\E[0;41;36m       Delete XRAY Account        \E[0m"
+    echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    echo "  User       Expired  " 
+	echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+	grep -E "^### " "/etc/xray/config.json" | cut -d ' ' -f 2-3 | column -t | sort | uniq
+    echo ""
+    red "tap enter to go back"
+    echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+	read -rp "Input Username : " user
+    if [ -z $user ]; then
+    menu
+    else
+    exp=$(grep -wE "^### $user" "/etc/xray/config.json" | cut -d ' ' -f 3 | sort | uniq)
+    sed -i "/^### $user $exp/,/^},{/d" /etc/xray/config.json
+    systemctl restart xray > /dev/null 2>&1
+    clear
+    echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    echo " XRAY Account Deleted Successfully"
+    echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    echo " Client Name : $user"
+    echo " Expired On  : $exp"
+    echo -e "$COLOR1━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
+    echo ""
+    read -n 1 -s -r -p "Press any key to back on menu"
+    
+    menu
+    fi
+}
+clear
+echo -e "${BICyan}┌─────────────────────────────────────────────────┐${NC}"
+echo -e "${BICyan}│                     VLESS MENU                  │$NC"
+echo -e "${BICyan}└─────────────────────────────────────────────────┘${NC}"
+echo -e " ${BICyan}┌───────────────────────────────────────────────┐${NC}"
+echo -e "     ${BICyan}[${BIWhite}1${BICyan}] Create Vless Account     "
+echo -e "     ${BICyan}[${BIWhite}2${BICyan}] Trial Vless Acoount     "
+echo -e "     ${BICyan}[${BIWhite}3${BICyan}] Delete Account Vless     "
+echo -e "     ${BICyan}[${BIWhite}4${BICyan}] Renew Account Vless     "
+echo -e "     ${BICyan}[${BIWhite}5${BICyan}] Cek User Active XRAY     "
+echo -e "     ${BICyan}[${BIWhite}6${BICyan}] Detail Account Vless     "
+
+echo -e "     ${BICyan}[${BIWhite}0${BICyan}] Back To Menu     "
+echo -e " ${BICyan}└──────────────────────────────────────────────┘${NC}"
+echo ""
+read -p " Select menu : " opt
+echo -e ""
+case $opt in
+1) clear ; add-vless ;;
+2) clear ; trialvless ;;
+3) clear ; delws;;
+4) clear ; renewws ;;
+5) clear ; cekws;;
+6) clear ; detailvless;;
+0) clear ; menu ;;
+x) exit ;;
+*) echo -e "" ; echo "Press any key to back on menu" ; sleep 1 ; menu ;;
+esac

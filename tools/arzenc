@@ -9,7 +9,7 @@ BOLD=$(tput bold)
 pwd=$(pwd)
 
 
-echo " 
+echo "
     ***********      ******************
    *				 *
    *				 *

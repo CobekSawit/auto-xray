@@ -1,3 +1,67 @@
-z="
-";JCz='rt N';WBz='IBlu';uCz='W} R';wBz='LUE=';pz='Cyan';GBz='3[0;';SDz='C}"';NBz='IRed';RBz='en='\''';cz='ue='\''';ADz='rt W';UEz=';;';QDz='────';QBz='IGre';hCz='}]"';TEz='ore ';gDz='$NC ';OCz='"[${';SCz='NC}]';IBz=''\''';rBz='rt Y';REz=' 2) ';mBz='[0;3';wz='te='\''';YCz='INFO';Pz='BIGr';dEz='esac';kCz='[${Y';RDz='┐${N';vCz='VE $';Zz=''\''   ';rDz='0]${';Sz='Gree';OEz='up ;';dz='\033';iCz='ENDI';Ez='90m'\''';nCz='{NC}';Iz='k';mDz='ckup';Mz='1;91';cEz='enu-';qCz='END=';RCz='R ${';mz='BICy';LDz='r';DEz=' men';sCz='ECEI';tBz='W='\''\';kDz='NC} ';sz='97m'\''';vBz='rt B';BDz='ARNI';fDz='an}│';YDz='│$NC';rz='ite=';Az='BIBl';EEz='u : ';aDz='┘${N';bBz='95m'\''';cBz='ICya';Kz='d='\''\';ACz='URPL';iBz='m'\''';LEz=' 1) ';uDz='nu"';gCz='${NC';tDz='o Me';ZDz='n}└─';KEz='01 |';NCz='ROR=';Dz='3[1;';FBz='Red=';Wz='='\''\0';GDz='NDER';yBz='rt P';SEz='rest';IEz=' $op';MBz='0m'\'' ';rCz='SEND';OBz='33[0';Gz='  # ';gBz='NC='\''';az='Yell';kBz='rt R';bz='ow';yz='7m'\'' ';DBz='05m'\''';MCz='rt E';XEz='menu';jz=';95m';DCz='rt C';sDz='ck T';sBz='ELLO';XDz='U   ';WEz=' 0) ';Xz='33[1';PDz='n}┌─';VEz='00 |';HEz='case';YEz=' ;;';TBz='IYel';aCz='C}]"';dCz='GREE';Qz='een=';Nz='m'\''  ';bEz=' ; m';EBz='  #';CBz='[0;1';WCz='YELL';HDz='LINE';ABz='On_I';LBz='[0;9';iz='rple';ez='[1;9';hz='BIPu';HBz='101m';yCz='1m"';BBz='le='\''';EDz='[5m"';dDz='───┐';fBz='IWhi';tCz='VE="';oz='6m'\'' ';xDz='""';FDz='rt U';PEz=';';jDz='1]${';VDz='CKUP';xBz='34m'\''';wDz='───┘';eDz='}"';eBz='0;96';XBz='e='\''\';Cz=''\''\03';FEz=' "  ';Tz='n';QCz=' ERO';dBz='n='\''\';oCz=']"';PCz='RED}';qBz=';32m';fCz='KEY ';UDz='  BA';AEz=' -p ';KBz='ck='\''';bDz='" ${';mCz='NG $';Rz='92m'\''';nz='an='\''';eCz='N} O';cCz='KEY=';UCz='rt I';iDz='an}[';WDz=' MEN';KCz='C='\''\';VBz='93m'\''';XCz='OW} ';DDz='D}\e';YBz='0;94';oDz='• Re';TDz='n}│ ';KDz='clea';JDz='[4m"';CEz='lect';gz='Blue';ICz=';37m';ZEz='*) c';Fz='    ';lBz='ED='\''';qz='BIWh';BCz='E='\''\';CDz='${RE';tz='Whit';Lz='033[';lCz='W} P';bCz='rt O';MEz='r ; ';aBz='ple=';GEz='opt';uBz='0;33';JBz='IBla';QEz='02 |';LCz='0m'\''';ZCz=' ${N';vz='UWhi';NDz=' -e ';qDz='e"';jBz='expo';VCz='NFO=';Jz='BIRe';PBz=';91m';wCz='OLD=';cDz='an}┌';vDz='an}└';ODz='"${B';kz='Purp';uz='e';Uz='BIYe';xCz='"\e[';UBz='low=';TCz='"';Yz=';93m';pDz='stor';Bz='ack=';nDz='2]${';Vz='llow';fz='4m'\'' ';ZBz='IPur';HCz='IGHT';oBz='rt G';nBz='1m'\''';GCz='rt L';FCz='36m'\''';lz='le';IDz='="\e';xz='[4;3';SBz='2m'\'' ';BEz='" Se';jCz='NG="';yDz='read';hDz='  ${';Hz='Blac';pCz='rt S';pBz='REEN';MDz='echo';Oz='Red';NEz='back';JEz='t in';CCz='0;35';ECz='YAN=';hBz='\e[0';lDz='• Ba';aEz='lear';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Fz$Gz$Oz$z$Pz$Qz$Cz$Dz$Rz$Fz$Gz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$Zz$Gz$az$bz$z$Az$cz$dz$ez$fz$Fz$Gz$gz$z$hz$iz$Wz$Xz$jz$Zz$Gz$kz$lz$z$mz$nz$dz$ez$oz$Fz$Gz$pz$z$qz$rz$Cz$Dz$sz$Fz$Gz$tz$uz$z$vz$wz$dz$xz$yz$Fz$Gz$tz$uz$z$ABz$kz$BBz$dz$CBz$DBz$EBz$z$ABz$FBz$Cz$GBz$HBz$IBz$z$JBz$KBz$dz$LBz$MBz$Fz$Gz$Hz$Iz$z$NBz$Wz$OBz$PBz$Zz$Fz$Gz$Oz$z$QBz$RBz$dz$LBz$SBz$Fz$Gz$Sz$Tz$z$TBz$UBz$Cz$GBz$VBz$Fz$Gz$az$bz$z$WBz$XBz$Lz$YBz$Nz$Fz$Gz$gz$z$ZBz$aBz$Cz$GBz$bBz$Fz$Gz$kz$lz$z$cBz$dBz$Lz$eBz$Nz$Fz$Gz$pz$z$fBz$wz$dz$LBz$yz$Fz$Gz$tz$uz$z$gBz$hBz$iBz$z$jBz$kBz$lBz$dz$mBz$nBz$z$jBz$oBz$pBz$Wz$OBz$qBz$IBz$z$jBz$rBz$sBz$tBz$Lz$uBz$iBz$z$jBz$vBz$wBz$Cz$GBz$xBz$z$jBz$yBz$ACz$BCz$Lz$CCz$iBz$z$jBz$DCz$ECz$Cz$GBz$FCz$z$jBz$GCz$HCz$Wz$OBz$ICz$IBz$z$jBz$JCz$KCz$Lz$LCz$z$jBz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$z$jBz$UCz$VCz$OCz$WCz$XCz$YCz$ZCz$aCz$z$jBz$bCz$cCz$OCz$dCz$eCz$fCz$gCz$hCz$z$jBz$yBz$iCz$jCz$kCz$sBz$lCz$iCz$mCz$nCz$oCz$z$jBz$pCz$qCz$OCz$WCz$XCz$rCz$ZCz$aCz$z$jBz$kBz$sCz$tCz$kCz$sBz$uCz$sCz$vCz$nCz$oCz$z$jBz$vBz$wCz$xCz$yCz$z$jBz$ADz$BDz$jCz$CDz$DDz$EDz$z$jBz$FDz$GDz$HDz$IDz$JDz$z$KDz$LDz$z$MDz$NDz$ODz$cBz$PDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$RDz$SDz$z$MDz$NDz$ODz$cBz$TDz$Fz$Fz$Fz$Fz$UDz$VDz$WDz$XDz$Fz$Fz$Fz$Fz$YDz$TCz$z$MDz$NDz$ODz$cBz$ZDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$aDz$SDz$z$MDz$NDz$bDz$mz$cDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$dDz$gCz$eDz$z$MDz$NDz$bDz$mz$fDz$gDz$hDz$mz$iDz$jDz$kDz$lDz$mDz$TCz$z$MDz$NDz$bDz$mz$fDz$gDz$hDz$mz$iDz$nDz$kDz$oDz$pDz$qDz$z$MDz$NDz$bDz$mz$fDz$gDz$hDz$mz$iDz$rDz$kDz$lDz$sDz$tDz$uDz$z$MDz$NDz$bDz$mz$vDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$QDz$wDz$gCz$eDz$z$MDz$NDz$xDz$z$yDz$AEz$BEz$CEz$DEz$EEz$FEz$GEz$z$MDz$NDz$xDz$z$HEz$IEz$JEz$z$KEz$LEz$KDz$MEz$NEz$OEz$PEz$z$QEz$REz$KDz$MEz$SEz$TEz$UEz$z$VEz$WEz$KDz$MEz$XEz$YEz$z$ZEz$aEz$bEz$cEz$NEz$OEz$PEz$z$dEz"
+#!/bin/bash
+# SCRIPT BY Wings Premium VPN
+
+BIBlack='\033[1;90m'      # Black
+BIRed='\033[1;91m'        # Red
+BIGreen='\033[1;92m'      # Green
+BIYellow='\033[1;93m'     # Yellow
+BIBlue='\033[1;94m'       # Blue
+BIPurple='\033[1;95m'     # Purple
+BICyan='\033[1;96m'       # Cyan
+BIWhite='\033[1;97m'      # White
+UWhite='\033[4;37m'       # White
+On_IPurple='\033[0;105m'  #
+On_IRed='\033[0;101m'
+IBlack='\033[0;90m'       # Black
+IRed='\033[0;91m'         # Red
+IGreen='\033[0;92m'       # Green
+IYellow='\033[0;93m'      # Yellow
+IBlue='\033[0;94m'        # Blue
+IPurple='\033[0;95m'      # Purple
+ICyan='\033[0;96m'        # Cyan
+IWhite='\033[0;97m'       # White
+NC='\e[0m'
+
+# // Export Color & Information
+export RED='\033[0;31m'
+export GREEN='\033[0;32m'
+export YELLOW='\033[0;33m'
+export BLUE='\033[0;34m'
+export PURPLE='\033[0;35m'
+export CYAN='\033[0;36m'
+export LIGHT='\033[0;37m'
+export NC='\033[0m'
+
+# // Export Banner Status Information
+export EROR="[${RED} EROR ${NC}]"
+export INFO="[${YELLOW} INFO ${NC}]"
+export OKEY="[${GREEN} OKEY ${NC}]"
+export PENDING="[${YELLOW} PENDING ${NC}]"
+export SEND="[${YELLOW} SEND ${NC}]"
+export RECEIVE="[${YELLOW} RECEIVE ${NC}]"
+
+# // Export Align
+export BOLD="\e[1m"
+export WARNING="${RED}\e[5m"
+export UNDERLINE="\e[4m"
+
+
+
+clear
+echo -e "${BICyan}┌─────────────────────────────────────────────────┐${NC}"
+echo -e "${BICyan}│                   BACKUP MENU                   │$NC"
+echo -e "${BICyan}└─────────────────────────────────────────────────┘${NC}"
+echo -e " ${BICyan}┌───────────────────────────────────────────────┐${NC}"
+echo -e " ${BICyan}│$NC   ${BICyan}[1]${NC} • Backup"
+echo -e " ${BICyan}│$NC   ${BICyan}[2]${NC} • Restore"
+echo -e " ${BICyan}│$NC   ${BICyan}[0]${NC} • Back To Menu"
+echo -e " ${BICyan}└───────────────────────────────────────────────┘${NC}"
+echo -e ""
+read -p " Select menu :  "  opt
+echo -e ""
+case $opt in
+01 | 1) clear ; backup ;;
+02 | 2) clear ; restore ;;
+00 | 0) clear ; menu ;;
+*) clear ; menu-backup ;;
+esac

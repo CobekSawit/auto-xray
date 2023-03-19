@@ -1,35 +1,7 @@
 #!/bin/bash
-
-BIBlack='\033[1;90m'      # Black
-BIRed='\033[1;91m'        # Red
-BIGreen='\033[1;92m'      # Green
-BIYellow='\033[1;93m'     # Yellow
-BIBlue='\033[1;94m'       # Blue
-BIPurple='\033[1;95m'     # Purple
-BICyan='\033[1;96m'       # Cyan
-BIWhite='\033[1;97m'      # White
-UWhite='\033[4;37m'       # White
-On_IPurple='\033[0;105m'  #
-On_IRed='\033[0;101m'
-IBlack='\033[0;90m'       # Black
-IRed='\033[0;91m'         # Red
-IGreen='\033[0;92m'       # Green
-IYellow='\033[0;93m'      # Yellow
-IBlue='\033[0;94m'        # Blue
-IPurple='\033[0;95m'      # Purple
-ICyan='\033[0;96m'        # Cyan
-IWhite='\033[0;97m'       # White
-NC='\e[0m'
-
-# // Export Color & Information
-export RED='\033[0;31m'
-export GREEN='\033[0;32m'
-export YELLOW='\033[0;33m'
-export BLUE='\033[0;34m'
-export PURPLE='\033[0;35m'
-export CYAN='\033[0;36m'
-export LIGHT='\033[0;37m'
-export NC='\033[0m'
+dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
+biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
+#########################
 
 # // Export Banner Status Information
 export EROR="[${RED} EROR ${NC}]"
@@ -98,25 +70,47 @@ else
 red "Permission Denied!"
 exit 0
 fi
-echo "Install Main..."
-echo "Progress..."
+#fi
+#sleep 3
+#echo -e "
+#"
+date
+echo ""
+sleep 1
+echo -e "[ ${green}INFO${NC} ] Checking... "
 sleep 2
-
-/etc/init.d/vnstat restart >/dev/null 2>&1
-wget -q https://humdi.net/vnstat/vnstat-2.6.tar.gz
-tar zxvf vnstat-2.6.tar.gz
-cd vnstat-2.6
-./configure --prefix=/usr --sysconfdir=/etc >/dev/null 2>&1 && make >/dev/null 2>&1 && make install >/dev/null 2>&1
+sleep 1
+echo -e "[ ${green}INFO${NC} ] Download & Install rclone... "
+curl -fsSL https://rclone.org/install.sh | bash > /dev/null 2>&1
+printf "q\n" | rclone config > /dev/null 2>&1
+sleep 1
+echo -e "[ ${green}INFO${NC} ] Downloading rclone config ... "
+wget -q -O /root/.config/rclone/rclone.conf "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/backup/rclone.conf"
+git clone https://github.com/magnific0/wondershaper.git &> /dev/null
+cd wondershaper
+sleep 1
+echo -e "[ ${green}INFO${NC} ] Installing wondershaper... "
+make install > /dev/null 2>&1
 cd
-vnstat -u -i $NET
-sed -i 's/Interface "'""eth0""'"/Interface "'""$NET""'"/g' /etc/vnstat.conf
-chown vnstat:vnstat /var/lib/vnstat -R
-systemctl enable vnstat >/dev/null 2>&1
-/etc/init.d/vnstat restart >/dev/null 2>&1
-rm -f /root/vnstat-2.6.tar.gz >/dev/null 2>&1
-rm -rf /root/vnstat-2.6 >/dev/null 2>&1
+rm -rf wondershaper > /dev/null 2>&1
+echo > /home/limit
 
-yellow() { echo -e "\\033[33;1m${*}\\033[0m"; }
-yellow "Main successfully installed..."
-sleep 3
-clear
+pkgs='msmtp-mta ca-certificates bsd-mailx'
+if ! dpkg -s $pkgs > /dev/null 2>&1; then
+sleep 1
+echo -e "[ ${green}INFO${NC} ] Installing... "
+apt install -y $pkgs > /dev/null 2>&1
+else
+sleep 1
+echo -e "[ ${green}INFO${NC} ] Already Installed... "
+fi
+sleep 1
+echo -e "[ ${green}INFO${NC} ] Creating service... "
+sleep 1
+echo -e "[ ${green}INFO${NC} ] Downloading files... "
+wget -q -O /usr/bin/backup "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/backup/backup.sh" && chmod +x /usr/bin/backup
+wget -q -O /usr/bin/restore "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/backup/restore.sh" && chmod +x /usr/bin/restore
+
+service cron restart > /dev/null 2>&1
+
+rm -f /root/set-br.sh

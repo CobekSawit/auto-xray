@@ -1,3 +1,186 @@
-z="
-";LIz='art ';wHz='/Cob';Tz='crip';ZGz='chmo';YDz='newv';HGz='mGet';jJz='addh';dFz='[m"';SGz=' -O ';BJz='menu';jDz='"${I';AJz='ed.s';wz='$(ca';Ez='wit"';uCz='2="$';IEz='ON N';bEz='d?\e';pDz='"   ';SHz='bekS';VFz='ckin';Oz='u ne';qz='supp';gKz='peed';OBz='/aut';xBz='nt_p';fJz='in "';BFz='Menu';xDz='[\e[';RGz='wget';XFz='w Ve';aJz='nu-b';EEz='E\e[';lCz='pref';nEz=' [1]';wFz='p 2';nJz='t.sh';MKz='boot';GLz='w Up';cGz='-upd';VEz='Woul';bCz='nt_c';EBz='http';oDz=' -e ';mCz='ix}(';HDz='ersi';rFz='test';xCz='ERSI';WCz='efix';Jz='ne 0';nBz='(cat';NFz='ptio';OIz='/res';EDz='ix}"';bHz='cont';HIz='rebo';jz='" ];';vJz='fo.s';YGz='h"';WLz='ver';cBz='cat ';ACz='x="\';yKz='mDow';EKz='w';rJz='-set';YCz='33[4';LFz=' x :';KIz='rest';vBz='Gree';bDz='p $v';NCz='grou';dHz='com/';qEz='Chec';fLz=';39m';NLz='ces ';dIz='spee';DCz=' && ';fFz='p 3';WFz='g Ne';dz='dete';NDz='ble$';WIz='s/cl';fDz='n = ';lBz='numb';az=' "$(';lHz='d-ss';bGz=' run';QHz='ws "';rBz='box=';mHz='vles';XIz='earl';XGz='te.s';cHz='ent.';nHz='s "h';gz='" ==';WEz='d yo';ZCz='1;37';CFz='"\e[';MLz='mSuc';aDz=' gre';FLz='chin';AIz='-xra';xIz='tspe';VCz='d_pr';aCz='& Fo';UIz='rlog';bJz='acku';OFz='n2';sBz='t /e';CLz='essf';MCz='een_';TKz='n/cl';xGz='ps:/';UBz='clea';JEz='OW >';xHz='wit/';BHz='hubu';XKz='n/sp';mFz='1;36';eIz='dtes';lIz='li.p';PFz='case';ZJz='kup ';WJz='enu-';XHz='tps:';tz=' ""';HBz='gith';RJz='roja';TCz='ackg';BKz='r/bi';BDz='t_co';QIz='tend';QJz='nu-t';gGz='Wait';pIz='widt';DLz='ully';dCz='_suf';eGz='mPle';iDz='sts=';hBz='_tex';qJz='rt.s';iKz='mess';WGz='ons/';eHz='Cobe';yHz='auto';fKz='mits';HFz='"PPl';KDz=']${F';Wz='t"';gDz='$new';Uz='t as';oKz='bmin';gIz='in/t';Dz='ekSa';WKz='nnin';YJz='-bac';mEz='[$nu';FHz='om/C';LDz='} av';REz='$sts';xEz='ow B';MFz=' " o';gBz='back';RHz='m/Co';SJz='n.sh';aIz='ing ';cCz='olor';eKz='n/li';jFz='labl';uEz='Now\';tCz='}"';vFz='u.\e';bIz='/run';wLz=';;';ez='ct-v';FIz='tr "';hKz='nu-v';kGz='mNew';HCz='fix=';rz='orte';Qz='o ru';ZHz='w.gi';hDz='_ver';FFz='read';FGz='e Fo';uJz='s/in';kHz='n/ad';VKz='n/ru';FDz='Erro';wGz='"htt';vKz='n/in';mJz='dhos';PDz='_fon';DEz='PDAT';mGz='nloa';VLz='> /h';VDz='${Fo';QGz='bin';gHz='it/a';Zz='fi';uIz='andw';mDz='"${E';AHz='.git';LJz='u/me';lz='n';qBz='mber';NBz='ser}';Fz='if [';ZIz='runn';oLz='Pres';tBz='tc/b';iBz='t=$(';YLz='f up';eBz='/bel';GFz=' -p ';PIz='tart';SDz='ease';GKz='ws';KCz='m" &';nKz='n/we';pJz='nu/c';CBz='$( c';yEz='Back';IKz='ess';pCz=')${F';rIz='in/o';uz='vers';QLz='t Fo';EIz='less';YEz='ke t';uBz='ox)';bFz='it..';pEz='ow C';yFz='te';fEz='m[ S';QDz='t_pr';aFz='e Wa';kEz='33[0';xJz='fose';xLz='x)';vLz='u"';OHz='.sh"';cDz='on )';yCz='ON)$';fCz='"';WDz='fix}';SCz='ed_b';yBz='refi';CJz='-vle';sIz='ns/c';Yz=' 1';oBz=' /et';rDz='----';oz=' is ';tIz='ek-b';LKz='tore';uFz='nkyo';gEz='elec';PGz='usr/';lJz='u/ad';eEz='0;32';RBz='ain/';Bz='ser=';sEz='ript';oFz=' Hav';jEz=' ]\0';eCz='3[0m';uHz='tent';Hz='EUID';MBz='m/${';eFz='slee';TIz='dang';FJz='u-vl';yz='ome/';pz='not ';jBz='/bac';sGz='-O /';KEz='> $I';NEz='TATU';fIz='t "h';sDz='\e[m';XBz='=$(c';HKz='d-vl';PCz='42;3';qLz='y ke';AKz=' /us';cKz='ndwi';WHz=' "ht';THz='awit';UDz='ate]';uKz='et';oIz='band';LEz='nfo1';kJz='ost ';pFz='e Th';SFz='1)';YHz='//ra';hCz='1="$';iIz='/spe';JFz='ose ';vGz='new ';kCz='ont_';VBz='r';dJz='enu.';JJz='u-vm';yDz='$box';Az='GitU';EHz='nt.c';oCz='sion';DJz='ss "';PJz='jan ';rHz='ithu';XJz='ssh.';BBz='ver=';GBz='raw.';Nz=' "Yo';nDz='rror';hJz='xp "';Sz='is s';nLz='-p "';CDz='lor_';dEz=' \e[';bKz='k-ba';XEz='u li';pKz='n/xp';hLz='PT U';DIz='dd-v';kFz='e\e[';FBz='s://';qDz='\e[$';lGz=' Dow';cEz='[0m"';mz=' "Op';YFz='n, P';iHz='xray';cFz='.!\e';Rz='n th';kDz='nfo2';ELz='mPat';rLz='y to';Xz='exit';jLz='\E[0';rCz='r_su';IBz='ubus';xFz='upda';qCz='colo';aBz='belo';hEz='t Op';IGz='ting';RLz='n\e[';ZFz='leas';NKz='n/re';sCz='ffix';wCz='ST V';wDz='[30m';yGz='/raw';wKz='fo';iFz='Avai';cIz='ning';KGz=' Scr';bz='syst';RDz='}[Pl';ZKz='est';TDz=' Upd';JBz='erco';MEz='w SS';GCz='_pre';TJz='-ssh';jGz='p 6';ADz='{Fon';fHz='kSaw';vDz='  \e';pLz='s an';OCz='nd_p';oHz='ttps';LHz='main';iz='envz';fGz='ase ';CEz='EW U';TGz='run-';oJz='cert';QEz=' >> ';DKz='erne';MDz='aila';vz='ion=';pGz='rted';Mz='echo';OLz='Upda';nz='enVZ';dGz='ate';IHz='t/au';XDz='new_';kz=' the';GIz='tr.s';EGz='pdat';JDz='ix}[';YKz='eedt';Kz=' ]; ';BEz='CK N';DFz='$lin';FEz='30m ';aLz='3[0;';TEz='\e[1';Lz='then';sz='d"';aGz='d +x';wJz='serv';nFz='mYou';LGz='ipt.';bBz='w=$(';aEz='ocee';VIz='n/op';tDz='t   ';BLz='succ';RCz='&& R';iEz='tion';SLz='cd';gLz='SCRI';QCz='7m" ';NHz='rnew';kLz=' -n ';OJz='-tro';TBz=')';ZEz='o pr';Iz='}" -';CCz='32m"';JGz=' New';qKz='n/up';VJz='nu/m';vIz='idth';wBz='n_fo';BIz='y/ma';hHz='uto-';bLz='34m-';SIz='/ten';Cz='"Cob';cz='emd-';ECz='Red_';nCz='$ver';YBz='at /';nGz='ding';KHz='ray/';mKz='nu';lLz='1 -s';fz='irt)';UJz='n/me';pHz='://r';LBz='t.co';PHz='add-';UCz='roun';rKz='date';ICz='"\03';lFz='p 1';ODz='{Red';cJz='p.sh';lKz='p';dDz=' $ve';GEz=']   ';lDz='else';HLz=', Pl';UEz=';31m';tFz='mTha';HHz='Sawi';wIz='limi';tEz='ate ';tGz='bin/';NGz='0m"';AEz=' CHE';iGz='\e[0';dKz='dth';hIz='ools';vCz='LATE';TLz=' "$v';KBz='nten';ILz=' Wai';BGz='w..\';QBz='ay/m';CGz='mSta';IJz='-vme';fBz='ow)';qGz='!\e[';SBz='ion ';MIz='/opt';VGz='opti';vEz='e[m"';UFz='mChe';CHz='serc';HJz='sh"';MJz='nu-s';ULz='er" ';WBz='line';kIz='st_c';KFz='1 or';FKz='d-ws';ZLz='.sh';sKz='rtxr';UHz='ws.s';GGz='r Ne';RKz='ndan';ABz='ver)';LLz=' OK!';dLz='"\E[';KKz='n/au';iCz='{Gre';DGz='rt U';gFz='mUpd';LCz='& Gr';QKz='n/te';mIz='y"';iLz='ED  ';tJz='info';EJz='/men';KLz='g...';FCz='font';JKz='d-tr';rEz='k Sc';RIz='ang ';BCz='033[';DBz='url ';PEz='DATE';NIz='ions';vHz='.com';SKz='g';HEz='w VV';JLz='t...';ALz='ded ';PKz='t';aKz='n/ce';gCz='Info';AGz='e No';PBz='o-xr';OGz='cd /';Pz='ed t';PLz='te S';qHz='aw.g';mLz=' -r ';ZDz='on |';oEz='$bel';JCz='3[31';GJz='ess.';QFz=' $op';eLz='44;1';eDz='rsio';yLz='esac';tHz='rcon';ZBz='etc/';aHz='thub';jHz='/mai';MHz='/use';NJz='s.sh';iJz='xp.s';Gz=' "${';DDz='suff';qFz='e La';OEz='S UP';tLz='k on';eJz='webm';jIz='edte';AFz=' To ';xKz='rv';kBz='k)';SEz='""';dBz='/etc';pBz='c/nu';uDz='    ';XCz='="\0';oGz=' sta';gJz='in.s';hFz='Not ';JHz='to-x';YIz='og.s';jCz='en_f';OKz='star';Vz=' roo';IIz='ot "';tKz='ay';XLz='rm -';VHz='ssws';GHz='obek';yIz='ed "';MGz='.\e[';EFz='e"';uLz=' men';qIz='h "h';lEz='m"';CIz='in/a';xz='t /h';yJz='rv.s';jKz='s';hGz='...!';rGz=' -q ';GDz='r="V';hz=' "op';DHz='onte';sHz='buse';kKz='sh';RFz='2 in';IFz=' Cho';IDz='on $';sFz=' Ver';CKz='n/us';sLz=' bac';UGz='te "';UKz='og';uGz='user';nIz='cek-';JIz='ot.s';mBz='er=$';sJz='set.';cLz='---\';TFz='1;31';KJz='-ss ';wEz=' [x]';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$z$Zz$z$Fz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$z$Mz$mz$nz$oz$pz$qz$rz$sz$z$Xz$Yz$z$Zz$z$Mz$tz$z$uz$vz$wz$xz$yz$ABz$z$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$Az$NBz$OBz$PBz$QBz$RBz$uz$SBz$TBz$z$UBz$VBz$z$WBz$XBz$YBz$ZBz$WBz$TBz$z$aBz$bBz$cBz$dBz$eBz$fBz$z$gBz$hBz$iBz$cBz$dBz$jBz$kBz$z$lBz$mBz$nBz$oBz$pBz$qBz$TBz$z$rBz$wz$sBz$tBz$uBz$z$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$gBz$NCz$OCz$yBz$ACz$BCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$KCz$aCz$bCz$cCz$dCz$HCz$ICz$eCz$fCz$z$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$kCz$qCz$rCz$sCz$tCz$z$gCz$uCz$iCz$jCz$kCz$lCz$mCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$z$FDz$GDz$HDz$IDz$iCz$jCz$kCz$lCz$JDz$nCz$KDz$kCz$qCz$rCz$sCz$LDz$MDz$NDz$ODz$PDz$QDz$WCz$RDz$SDz$TDz$UDz$VDz$bCz$cCz$dCz$WDz$fCz$z$uz$vz$wz$xz$yz$ABz$z$XDz$uz$vz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$Az$NBz$OBz$PBz$QBz$RBz$YDz$HDz$ZDz$aDz$bDz$HDz$cDz$z$Fz$dDz$eDz$fDz$gDz$hDz$oCz$Kz$Lz$z$iDz$jDz$kDz$tCz$z$lDz$z$iDz$mDz$nDz$tCz$z$Zz$z$UBz$VBz$z$Mz$tz$z$Mz$oDz$pDz$qDz$WBz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$sDz$fCz$z$Mz$oDz$pDz$qDz$gBz$hBz$tDz$uDz$uDz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$FEz$GEz$uDz$uDz$uDz$uDz$sDz$fCz$z$Mz$oDz$pDz$qDz$WBz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$sDz$fCz$z$Mz$oDz$pDz$qDz$aBz$HEz$xCz$IEz$JEz$KEz$LEz$fCz$z$Mz$oDz$pDz$qDz$aBz$MEz$NEz$OEz$PEz$QEz$REz$fCz$z$Mz$oDz$SEz$z$Mz$oDz$pDz$uDz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$z$Mz$tz$z$Mz$oDz$pDz$uDz$uDz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$z$Mz$oDz$pDz$vDz$mEz$qBz$nEz$sDz$dEz$oEz$pEz$qEz$rEz$sEz$TDz$tEz$uEz$vEz$z$Mz$oDz$pDz$vDz$mEz$qBz$wEz$sDz$dEz$oEz$xEz$yEz$AFz$BFz$sDz$fCz$z$Mz$oDz$SEz$z$Mz$oDz$pDz$qDz$WBz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$sDz$fCz$z$Mz$oDz$CFz$DFz$EFz$z$FFz$GFz$HFz$SDz$IFz$JFz$KFz$LFz$MFz$NFz$OFz$z$PFz$QFz$iEz$RFz$z$SFz$z$uz$vz$wz$xz$yz$ABz$z$XDz$uz$vz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$Az$NBz$OBz$PBz$QBz$RBz$YDz$HDz$ZDz$aDz$bDz$HDz$cDz$z$Fz$dDz$eDz$fDz$gDz$hDz$oCz$Kz$Lz$z$UBz$VBz$z$Mz$tz$z$Mz$oDz$CFz$TFz$UFz$VFz$WFz$XFz$eDz$YFz$ZFz$aFz$bFz$cFz$dFz$z$eFz$fFz$z$UBz$VBz$z$Mz$oDz$CFz$TFz$gFz$tEz$hFz$iFz$jFz$kFz$lEz$z$Mz$tz$z$UBz$VBz$z$eFz$lFz$z$Mz$oDz$CFz$mFz$nFz$oFz$pFz$qFz$rFz$sFz$oCz$sDz$fCz$z$Mz$oDz$CFz$TFz$tFz$uFz$vFz$cEz$z$eFz$wFz$z$xFz$yFz$z$Zz$z$UBz$VBz$z$Mz$oDz$CFz$TFz$gFz$tEz$iFz$jFz$AGz$BGz$vEz$z$Mz$oDz$SEz$z$eFz$wFz$z$Mz$oDz$CFz$mFz$CGz$DGz$EGz$FGz$GGz$XFz$eDz$YFz$ZFz$aFz$bFz$sDz$fCz$z$eFz$wFz$z$UBz$VBz$z$Mz$oDz$CFz$eEz$HGz$IGz$JGz$sFz$oCz$KGz$LGz$MGz$NGz$z$eFz$lFz$z$Mz$tz$z$OGz$PGz$QGz$z$RGz$SGz$TGz$xFz$UGz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$Az$NBz$OBz$PBz$QBz$RBz$VGz$WGz$xFz$XGz$YGz$z$ZGz$aGz$bGz$cGz$dGz$z$Mz$tz$z$UBz$VBz$z$Mz$oDz$CFz$eEz$eGz$fGz$gGz$hGz$iGz$lEz$z$eFz$jGz$z$UBz$VBz$z$Mz$tz$z$Mz$oDz$CFz$eEz$kGz$sFz$oCz$lGz$mGz$nGz$oGz$pGz$qGz$NGz$z$eFz$wFz$z$OGz$PGz$QGz$z$RGz$rGz$sGz$PGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$z$RGz$rGz$sGz$PGz$tGz$PHz$QHz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$RHz$SHz$THz$OBz$PBz$QBz$RBz$PHz$UHz$YGz$z$RGz$rGz$sGz$PGz$tGz$PHz$VHz$WHz$XHz$YHz$ZHz$aHz$uGz$bHz$cHz$dHz$eHz$fHz$gHz$hHz$iHz$jHz$kHz$lHz$UHz$YGz$z$RGz$rGz$sGz$PGz$tGz$PHz$mHz$nHz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$vHz$wHz$Dz$xHz$yHz$AIz$BIz$CIz$DIz$EIz$OHz$z$RGz$rGz$sGz$PGz$tGz$PHz$FIz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$RHz$SHz$THz$OBz$PBz$QBz$RBz$PHz$GIz$YGz$z$RGz$rGz$sGz$PGz$tGz$yHz$HIz$IIz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$RHz$SHz$THz$OBz$PBz$QBz$RBz$VGz$WGz$yHz$HIz$JIz$YGz$z$RGz$rGz$sGz$PGz$tGz$KIz$LIz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MIz$NIz$OIz$PIz$OHz$z$RGz$rGz$sGz$PGz$tGz$QIz$RIz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MIz$NIz$SIz$TIz$OHz$z$RGz$rGz$sGz$PGz$tGz$UBz$UIz$WHz$XHz$YHz$ZHz$aHz$uGz$bHz$cHz$dHz$eHz$fHz$gHz$hHz$iHz$jHz$VIz$iEz$WIz$XIz$YIz$YGz$z$RGz$rGz$sGz$PGz$tGz$ZIz$aIz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MIz$NIz$bIz$cIz$OHz$z$RGz$rGz$sGz$PGz$tGz$dIz$eIz$fIz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$vHz$wHz$Dz$xHz$yHz$AIz$BIz$gIz$hIz$iIz$jIz$kIz$lIz$mIz$z$RGz$rGz$sGz$PGz$tGz$nIz$oIz$pIz$qIz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$vHz$wHz$Dz$xHz$yHz$AIz$BIz$rIz$NFz$sIz$tIz$uIz$vIz$OHz$z$RGz$rGz$sGz$PGz$tGz$wIz$xIz$yIz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$RHz$SHz$THz$OBz$PBz$QBz$RBz$VGz$WGz$wIz$xIz$AJz$YGz$z$RGz$rGz$sGz$PGz$tGz$BJz$CJz$DJz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$RHz$SHz$THz$OBz$PBz$QBz$RBz$BJz$EJz$FJz$GJz$HJz$z$RGz$rGz$sGz$PGz$tGz$BJz$IJz$DJz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$RHz$SHz$THz$OBz$PBz$QBz$RBz$BJz$EJz$JJz$GJz$HJz$z$RGz$rGz$sGz$PGz$tGz$BJz$KJz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$EJz$LJz$MJz$NJz$fCz$z$RGz$rGz$sGz$PGz$tGz$BJz$OJz$PJz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$EJz$LJz$QJz$RJz$SJz$fCz$z$RGz$rGz$sGz$PGz$tGz$BJz$TJz$WHz$XHz$YHz$ZHz$aHz$uGz$bHz$cHz$dHz$eHz$fHz$gHz$hHz$iHz$jHz$UJz$VJz$WJz$XJz$HJz$z$RGz$rGz$sGz$PGz$tGz$BJz$YJz$ZJz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$EJz$LJz$aJz$bJz$cJz$fCz$z$RGz$rGz$sGz$PGz$tGz$BJz$WHz$XHz$YHz$ZHz$aHz$uGz$bHz$cHz$dHz$eHz$fHz$gHz$hHz$iHz$jHz$UJz$VJz$dJz$HJz$z$RGz$rGz$sGz$PGz$tGz$eJz$fJz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$RHz$SHz$THz$OBz$PBz$QBz$RBz$VGz$WGz$eJz$gJz$YGz$z$RGz$rGz$sGz$PGz$tGz$hJz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$RHz$SHz$THz$OBz$PBz$QBz$RBz$iJz$YGz$z$RGz$rGz$sGz$PGz$tGz$xFz$UGz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$RHz$SHz$THz$OBz$PBz$QBz$RBz$VGz$WGz$xFz$XGz$YGz$z$RGz$rGz$sGz$PGz$tGz$jJz$kJz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$EJz$lJz$mJz$nJz$fCz$z$RGz$rGz$sGz$PGz$tGz$oJz$iHz$WHz$XHz$YHz$ZHz$aHz$uGz$bHz$cHz$dHz$eHz$fHz$gHz$hHz$iHz$jHz$UJz$pJz$qJz$YGz$z$RGz$rGz$sGz$PGz$tGz$BJz$rJz$WHz$XHz$YHz$ZHz$aHz$uGz$bHz$cHz$dHz$eHz$fHz$gHz$hHz$iHz$jHz$UJz$VJz$WJz$sJz$HJz$z$RGz$rGz$sGz$PGz$tGz$tJz$WHz$XHz$YHz$ZHz$aHz$uGz$bHz$cHz$dHz$eHz$fHz$gHz$hHz$iHz$jHz$VIz$iEz$uJz$vJz$YGz$z$RGz$rGz$sGz$PGz$tGz$tJz$wJz$WHz$XHz$YHz$ZHz$aHz$uGz$bHz$cHz$dHz$eHz$fHz$gHz$hHz$iHz$jHz$VIz$iEz$uJz$xJz$yJz$YGz$z$ZGz$aGz$AKz$BKz$CKz$DKz$EKz$z$ZGz$aGz$AKz$BKz$kHz$FKz$z$ZGz$aGz$AKz$BKz$kHz$lHz$GKz$z$ZGz$aGz$AKz$BKz$kHz$HKz$IKz$z$ZGz$aGz$AKz$BKz$kHz$JKz$z$ZGz$aGz$AKz$BKz$KKz$LKz$MKz$z$ZGz$aGz$AKz$BKz$NKz$OKz$PKz$z$ZGz$aGz$AKz$BKz$QKz$RKz$SKz$z$ZGz$aGz$AKz$BKz$TKz$XIz$UKz$z$ZGz$aGz$AKz$BKz$VKz$WKz$SKz$z$ZGz$aGz$AKz$BKz$XKz$YKz$ZKz$z$ZGz$aGz$AKz$BKz$aKz$bKz$cKz$dKz$z$ZGz$aGz$AKz$BKz$eKz$fKz$gKz$z$ZGz$aGz$AKz$BKz$UJz$hKz$EIz$z$ZGz$aGz$AKz$BKz$UJz$hKz$iKz$z$ZGz$aGz$AKz$BKz$UJz$MJz$jKz$z$ZGz$aGz$AKz$BKz$UJz$QJz$RJz$lz$z$ZGz$aGz$AKz$BKz$UJz$MJz$kKz$z$ZGz$aGz$AKz$BKz$UJz$aJz$bJz$lKz$z$ZGz$aGz$AKz$BKz$UJz$mKz$z$ZGz$aGz$AKz$BKz$nKz$oKz$z$ZGz$aGz$AKz$BKz$pKz$z$ZGz$aGz$AKz$BKz$qKz$rKz$z$ZGz$aGz$AKz$BKz$kHz$mJz$PKz$z$ZGz$aGz$AKz$BKz$aKz$sKz$tKz$z$ZGz$aGz$AKz$BKz$UJz$MJz$uKz$z$ZGz$aGz$AKz$BKz$vKz$wKz$z$ZGz$aGz$AKz$BKz$vKz$xJz$xKz$z$UBz$VBz$z$Mz$oDz$SEz$z$Mz$oDz$CFz$eEz$yKz$mGz$ALz$BLz$CLz$DLz$qGz$NGz$z$Mz$tz$z$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$Az$NBz$OBz$PBz$QBz$RBz$uz$SBz$TBz$z$eFz$lFz$z$Mz$oDz$CFz$eEz$ELz$FLz$WFz$GLz$rKz$HLz$SDz$ILz$JLz$iGz$lEz$z$Mz$tz$z$eFz$wFz$z$Mz$oDz$CFz$eEz$ELz$FLz$KLz$LLz$iGz$lEz$z$eFz$lFz$z$Mz$tz$z$Mz$oDz$CFz$eEz$MLz$NLz$OLz$PLz$Tz$QLz$GGz$XFz$eDz$RLz$NGz$z$SLz$z$Mz$TLz$ULz$VLz$yz$WLz$z$XLz$YLz$rKz$ZLz$z$UBz$VBz$z$Mz$tz$z$Mz$oDz$ICz$aLz$bLz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$cLz$BCz$NGz$z$Mz$oDz$dLz$eLz$fLz$uDz$uDz$uDz$gLz$hLz$DEz$iLz$uDz$uDz$uDz$jLz$lEz$z$Mz$oDz$ICz$aLz$bLz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$rDz$cLz$BCz$NGz$z$Mz$tz$z$FFz$kLz$lLz$mLz$nLz$oLz$pLz$qLz$rLz$sLz$tLz$uLz$vLz$z$BJz$z$wLz$z$xLz$z$UBz$VBz$z$Mz$oDz$SEz$z$FFz$kLz$lLz$mLz$nLz$oLz$pLz$qLz$rLz$sLz$tLz$uLz$vLz$z$BJz$z$wLz$z$yLz"
+#wget https://github.com/${GitUser}/
+GitUser="CobekSawit"
+if [ "${EUID}" -ne 0 ]; then
+		echo "You need to run this script as root"
+		exit 1
+fi
+if [ "$(systemd-detect-virt)" == "openvz" ]; then
+		echo "OpenVZ is not supported"
+		exit 1
+fi
+echo ""
+version=$(cat /home/ver)
+ver=$( curl https://raw.githubusercontent.com/${GitUser}/auto-xray/main/version )
+clear
+# LINE COLOUR
+line=$(cat /etc/line)
+# TEXT COLOUR BELOW
+below=$(cat /etc/below)
+# BACKGROUND TEXT COLOUR
+back_text=$(cat /etc/back)
+# NUMBER COLOUR
+number=$(cat /etc/number)
+# TEXT ON BOX COLOUR
+box=$(cat /etc/box)
+# CEK UPDATE
+Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_prefix="\033[42;37m" && Red_background_prefix="\033[41;37m" && Font_color_suffix="\033[0m"
+Info1="${Green_font_prefix}($version)${Font_color_suffix}"
+Info2="${Green_font_prefix}(LATEST VERSION)${Font_color_suffix}"
+Error="Version ${Green_font_prefix}[$ver]${Font_color_suffix} available${Red_font_prefix}[Please Update]${Font_color_suffix}"
+version=$(cat /home/ver)
+new_version=$( curl https://raw.githubusercontent.com/${GitUser}/auto-xray/main/newversion | grep $version )
+#Status Version
+if [ $version = $new_version ]; then
+sts="${Info2}"
+else
+sts="${Error}"
+fi
+clear
+echo ""
+echo -e "   \e[$line--------------------------------------------------------\e[m"
+echo -e "   \e[$back_text                 \e[30m[\e[$box CHECK NEW UPDATE\e[30m ]                   \e[m"
+echo -e "   \e[$line--------------------------------------------------------\e[m"
+echo -e "   \e[$below VVERSION NOW >> $Info1"
+echo -e "   \e[$below SSTATUS UPDATE >> $sts"
+echo -e ""
+echo -e "       \e[1;31mWould you like to proceed?\e[0m"
+echo ""
+echo -e "            \e[0;32m[ Select Option ]\033[0m"
+echo -e "     \e[$number [1]\e[m \e[$below CCheck Script Update Now\e[m"
+echo -e "     \e[$number [x]\e[m \e[$below BBack To Menu\e[m"
+echo -e ""
+echo -e "   \e[$line--------------------------------------------------------\e[m"
+echo -e "\e[$line"
+read -p "PPlease Choose 1 or x : " option2
+case $option2 in
+1)
+version=$(cat /home/ver)
+new_version=$( curl https://raw.githubusercontent.com/${GitUser}/auto-xray/main/newversion | grep $version )
+if [ $version = $new_version ]; then
+clear
+echo ""
+echo -e "\e[1;31mChecking New Version, Please Wait...!\e[m"
+sleep 3
+clear
+echo -e "\e[1;31mUpdate Not Available\e[m"
+echo ""
+clear
+sleep 1
+echo -e "\e[1;36mYou Have The Latest Version\e[m"
+echo -e "\e[1;31mThankyou.\e[0m"
+sleep 2
+update
+fi
+clear
+echo -e "\e[1;31mUpdate Available Now..\e[m"
+echo -e ""
+sleep 2
+echo -e "\e[1;36mStart Update For New Version, Please Wait..\e[m"
+sleep 2
+clear
+echo -e "\e[0;32mGetting New Version Script..\e[0m"
+sleep 1
+echo ""
+# UPDATE RUN-UPDATE
+cd /usr/bin
+wget -O run-update "https://raw.githubusercontent.com/${GitUser}/auto-xray/main/options/update.sh"
+chmod +x run-update
+# RUN UPDATE
+echo ""
+clear
+echo -e "\e[0;32mPlease Wait...!\e[0m"
+sleep 6
+clear
+echo ""
+echo -e "\e[0;32mNew Version Downloading started!\e[0m"
+sleep 2
+cd /usr/bin
+wget -q -O /usr/bin/usernew "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/usernew.sh"
+wget -q -O /usr/bin/add-ws "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/add-ws.sh"
+wget -q -O /usr/bin/add-ssws "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/add-ssws.sh"
+wget -q -O /usr/bin/add-vless "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/add-vless.sh"
+wget -q -O /usr/bin/add-tr "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/add-tr.sh"
+wget -q -O /usr/bin/autoreboot "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/options/autoreboot.sh"
+wget -q -O /usr/bin/restart "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/options/restart.sh"
+wget -q -O /usr/bin/tendang "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/options/tendang.sh"
+wget -q -O /usr/bin/clearlog "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/options/clearlog.sh"
+wget -q -O /usr/bin/running "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/options/running.sh"
+#wget -q -O /usr/bin/cek-trafik "https://raw.githubusercontent.com/arzvpn/Arzv/main/options/cek-trafik.sh"
+wget -q -O /usr/bin/speedtest "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/tools/speedtest_cli.py"
+wget -q -O /usr/bin/cek-bandwidth "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/options/cek-bandwidth.sh"
+wget -q -O /usr/bin/limitspeed "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/options/limitspeed.sh"
+wget -q -O /usr/bin/menu-vless "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/menu/menu-vless.sh"
+wget -q -O /usr/bin/menu-vmess "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/menu/menu-vmess.sh"
+wget -q -O /usr/bin/menu-ss "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/menu/menu-ss.sh"
+wget -q -O /usr/bin/menu-trojan "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/menu/menu-trojan.sh"
+wget -q -O /usr/bin/menu-ssh "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/menu/menu-ssh.sh"
+wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/menu/menu-backup.sh"
+wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/menu/menu.sh"
+wget -q -O /usr/bin/webmin "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/options/webmin.sh"
+wget -q -O /usr/bin/xp "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/xp.sh"
+wget -q -O /usr/bin/update "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/options/update.sh"
+wget -q -O /usr/bin/addhost "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/menu/addhost.sh"
+wget -q -O /usr/bin/certxray "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/menu/crt.sh"
+wget -q -O /usr/bin/menu-set "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/menu/menu-set.sh"
+wget -q -O /usr/bin/info "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/options/info.sh"
+wget -q -O /usr/bin/infoserv "https://raw.githubusercontent.com/CobekSawit/auto-xray/main/options/infoserv.sh"
+chmod +x /usr/bin/usernew
+chmod +x /usr/bin/add-ws
+chmod +x /usr/bin/add-ssws
+chmod +x /usr/bin/add-vless
+chmod +x /usr/bin/add-tr
+chmod +x /usr/bin/autoreboot
+chmod +x /usr/bin/restart
+chmod +x /usr/bin/tendang
+chmod +x /usr/bin/clearlog
+chmod +x /usr/bin/running
+chmod +x /usr/bin/speedtest
+chmod +x /usr/bin/cek-bandwidth
+chmod +x /usr/bin/limitspeed
+chmod +x /usr/bin/menu-vless
+chmod +x /usr/bin/menu-vmess
+chmod +x /usr/bin/menu-ss
+chmod +x /usr/bin/menu-trojan
+chmod +x /usr/bin/menu-ssh
+chmod +x /usr/bin/menu-backup
+chmod +x /usr/bin/menu
+chmod +x /usr/bin/webmin
+chmod +x /usr/bin/xp
+chmod +x /usr/bin/update
+chmod +x /usr/bin/addhost
+chmod +x /usr/bin/certxray
+chmod +x /usr/bin/menu-set
+chmod +x /usr/bin/info
+chmod +x /usr/bin/infoserv
+clear
+echo -e ""
+echo -e "\e[0;32mDownloaded successfully!\e[0m"
+echo ""
+ver=$( curl https://raw.githubusercontent.com/${GitUser}/auto-xray/main/version )
+sleep 1
+echo -e "\e[0;32mPatching New Update, Please Wait...\e[0m"
+echo ""
+sleep 2
+echo -e "\e[0;32mPatching... OK!\e[0m"
+sleep 1
+echo ""
+echo -e "\e[0;32mSucces Update Script For New Version\e[0m"
+cd
+echo "$ver" > /home/ver
+rm -f update.sh
+clear
+echo ""
+echo -e "\033[0;34m----------------------------------------\033[0m"
+echo -e "\E[44;1;39m            SCRIPT UPDATED              \E[0m"
+echo -e "\033[0;34m----------------------------------------\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+x)
+clear
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+esac
